@@ -1,0 +1,165 @@
+{
+  "bags": [
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Worn",
+      "contentIsWorn": true,
+      "isPlanarStorage": false,
+      "weight": 0,
+      "maxCarryWeight": 0,
+      "maxItemLimit": 0,
+      "weightReduction": 0
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Backpack",
+      "contentIsWorn": false,
+      "isPlanarStorage": false,
+      "weight": 2,
+      "maxCarryWeight": 0,
+      "maxItemLimit": 0,
+      "weightReduction": 0
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Bandolier",
+      "contentIsWorn": false,
+      "isPlanarStorage": false,
+      "weight": 0,
+      "maxCarryWeight": 0.8,
+      "maxItemLimit": 8,
+      "weightReduction": 0
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Belt Pouch",
+      "contentIsWorn": false,
+      "isPlanarStorage": false,
+      "weight": 0.5,
+      "maxCarryWeight": 0,
+      "maxItemLimit": 4,
+      "weightReduction": 0
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Chest",
+      "contentIsWorn": false,
+      "isPlanarStorage": false,
+      "weight": 25,
+      "maxCarryWeight": 0,
+      "maxItemLimit": 0,
+      "weightReduction": 0
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Sack",
+      "contentIsWorn": false,
+      "isPlanarStorage": false,
+      "weight": 0.5,
+      "maxCarryWeight": 0,
+      "maxItemLimit": 0,
+      "weightReduction": 0
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Saddle Bags",
+      "contentIsWorn": false,
+      "isPlanarStorage": false,
+      "weight": 8,
+      "maxCarryWeight": 0,
+      "maxItemLimit": 0,
+      "weightReduction": 0
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Satchel",
+      "contentIsWorn": false,
+      "isPlanarStorage": false,
+      "weight": 0,
+      "maxCarryWeight": 2,
+      "maxItemLimit": 0,
+      "weightReduction": 0
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Bag of Holding (minor)",
+      "contentIsWorn": false,
+      "isPlanarStorage": true,
+      "weight": 3,
+      "maxCarryWeight": 50,
+      "maxItemLimit": 0,
+      "weightReduction": 50
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Bag of Holding I",
+      "contentIsWorn": false,
+      "isPlanarStorage": true,
+      "weight": 15,
+      "maxCarryWeight": 250,
+      "maxItemLimit": 0,
+      "weightReduction": 250
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Bag of Holding II",
+      "contentIsWorn": false,
+      "isPlanarStorage": true,
+      "weight": 25,
+      "maxCarryWeight": 500,
+      "maxItemLimit": 0,
+      "weightReduction": 500
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Bag of Holding III",
+      "contentIsWorn": false,
+      "isPlanarStorage": true,
+      "weight": 35,
+      "maxCarryWeight": 1000,
+      "maxItemLimit": 0,
+      "weightReduction": 1000
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Bag of Holding IV",
+      "contentIsWorn": false,
+      "isPlanarStorage": true,
+      "weight": 60,
+      "maxCarryWeight": 1500,
+      "maxItemLimit": 0,
+      "weightReduction": 1500
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Bag of Holding V",
+      "contentIsWorn": false,
+      "isPlanarStorage": true,
+      "weight": 100,
+      "maxCarryWeight": 2500,
+      "maxItemLimit": 0,
+      "weightReduction": 2500
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Bag of Holding VI",
+      "contentIsWorn": false,
+      "isPlanarStorage": true,
+      "weight": 150,
+      "maxCarryWeight": 4000,
+      "maxItemLimit": 0,
+      "weightReduction": 4000
+    },
+    {
+      "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
+      "name": "Handy Haversack",
+      "contentIsWorn": false,
+      "isPlanarStorage": true,
+      "weight": 5,
+      "maxCarryWeight": 120,
+      "maxItemLimit": 0,
+      "weightReduction": 120
+    }
+  ],
+  "Items": []
+}
