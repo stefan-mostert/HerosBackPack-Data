@@ -3,6 +3,7 @@
   "ignoreItemCategory": true,
   "items": [
     {
+      "categories": ["Poison"],
       "name": "Arsenic",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=104",
       "category": "poison",
@@ -23,6 +24,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Giant Centipede Venom",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=113",
       "category": "poison",
@@ -41,6 +43,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Belladonna",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=105",
       "category": "poison",
@@ -61,6 +64,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Black Smear Poison",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=485",
       "category": "poison",
@@ -80,6 +84,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Black Adder Venom",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=106",
       "category": "poison",
@@ -98,6 +103,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Lethargy Poison",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=120",
       "category": "poison",
@@ -125,6 +131,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Blue Dragonfly Poison",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=484",
       "category": "poison",
@@ -145,6 +152,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Cytillesh Oil",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=110",
       "category": "poison",
@@ -164,6 +172,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Graveroot",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=116",
       "category": "poison",
@@ -183,6 +192,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "False Death",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=551",
       "category": "poison",
@@ -203,6 +213,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Hunting Spider Venom",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=118",
       "category": "poison",
@@ -222,6 +233,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Giant Scorpion Venom",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=114",
       "category": "poison",
@@ -241,6 +253,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Giant Wasp Venom",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=115",
       "category": "poison",
@@ -260,6 +273,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Isolation Draught",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=555",
       "category": "poison",
@@ -280,6 +294,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Malyass Root Paste",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=122",
       "category": "poison",
@@ -300,6 +315,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Addlebrain",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=504",
       "category": "poison",
@@ -320,6 +336,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Nettleweed Residue",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=124",
       "category": "poison",
@@ -340,6 +357,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Wyvern Poison",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=132",
       "category": "poison",
@@ -359,6 +377,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Lich Dust",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=121",
       "category": "poison",
@@ -378,6 +397,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Spider Root",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=129",
       "category": "poison",
@@ -398,6 +418,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Wolfsbane",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=131",
       "category": "poison",
@@ -418,6 +439,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Shadow Essence",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=127",
       "category": "poison",
@@ -437,6 +459,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Blightburn Resin",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=108",
       "category": "poison",
@@ -457,6 +480,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Mage Bane",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=556",
       "category": "poison",
@@ -476,6 +500,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Slumber Wine",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=128",
       "category": "poison",
@@ -496,6 +521,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Deathcap Powder",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=111",
       "category": "poison",
@@ -516,6 +542,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Gorgon's Breath",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=554",
       "category": "poison",
@@ -537,6 +564,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Purple Worm Venom",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=126",
       "category": "poison",
@@ -556,6 +584,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Dragon Bile",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=112",
       "category": "poison",
@@ -576,6 +605,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Mindfog Mist",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=123",
       "category": "poison",
@@ -596,6 +626,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Nightmare Vapor",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=125",
       "category": "poison",
@@ -616,6 +647,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Weeping Midnight",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=559",
       "category": "poison",
@@ -635,6 +667,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Brimstone Fumes",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=109",
       "category": "poison",
@@ -655,6 +688,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Frenzy Oil",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=552",
       "category": "poison",
@@ -675,6 +709,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Hemlock",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=117",
       "category": "poison",
@@ -695,6 +730,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "King's Sleep",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=119",
       "category": "poison",
@@ -714,6 +750,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Black Lotus Extract",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=107",
       "category": "poison",
@@ -734,6 +771,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Oblivion Essence",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=558",
       "category": "poison",
@@ -753,6 +791,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Tears of Death",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=130",
       "category": "poison",
@@ -773,6 +812,7 @@
       "activate": " Interact"
     },
     {
+      "categories": ["Poison"],
       "name": "Nightmare Salt",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=557",
       "category": "poison",

@@ -3,6 +3,7 @@
   "ignoreItemCategory": true,
   "items": [
     {
+      "categories": ["Shield"],
       "name": "Buckler",
       "link": "https://2e.aonprd.com/Shields.aspx?ID=1",
       "category": "shield",
@@ -16,6 +17,7 @@
       "text": "This very small shield is a favorite of duelists and quick, lightly armored warriors. It's typically made of steel and strapped to your forearm. You can Raise a Shield with your buckler as long as you have that hand free or are holding a light object that's not a weapon in that hand."
     },
     {
+      "categories": ["Shield"],
       "name": "Wooden Shield",
       "link": "https://2e.aonprd.com/Shields.aspx?ID=2",
       "category": "shield",
@@ -29,6 +31,7 @@
       "text": "Though they come in a variety of shapes and sizes, the protection offered by wooden shields comes from the stoutness of their materials. While wooden shields are less expensive than steel shields, they break more easily."
     },
     {
+      "categories": ["Shield"],
       "name": "Steel Shield",
       "link": "https://2e.aonprd.com/Shields.aspx?ID=3",
       "category": "shield",
@@ -42,6 +45,7 @@
       "text": "Like wooden shields, steel shields come in a variety of shapes and sizes. Though more expensive than wooden shields, they are much more durable."
     },
     {
+      "categories": ["Shield"],
       "name": "Tower Shield",
       "link": "https://2e.aonprd.com/Shields.aspx?ID=4",
       "category": "shield",

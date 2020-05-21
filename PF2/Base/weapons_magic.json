@@ -5,6 +5,7 @@
     {
       "traits": ["Magical", "Necromancy", "Poison"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=383",
+      "categories": ["Weapon", "Magic"],
       "name": "Dagger of Venom",
       "level": 5,
       "text": "The serrated blade of this +1 striking dagger has a greenish tinge, and the hilt is sculpted to look like the head of a serpent about to strike. When you critically succeed at an attack roll with the dagger of venom , the target becomes sickened 1 unless it succeeds at a DC 19 Fortitude save. This is a poison effect. In addition, you can activate the dagger to poison a creature with a more potent poison. dagger of venom",
@@ -26,6 +27,7 @@
     {
       "traits": ["Evocation", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=382",
+      "categories": ["Weapon", "Magic"],
       "name": "Caterwaul Sling",
       "level": 5,
       "text": "Made of shiny brown leather, this +1 striking sling has a single white thread interwoven into its cord.",
@@ -42,6 +44,7 @@
     {
       "traits": ["Uncommon", "Magical", "Necromancy"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=381",
+      "categories": ["Weapon", "Magic"],
       "name": "Bloodletting Kukri",
       "level": 6,
       "text": "This +1 striking kukri has a crimson blade that shimmers eerily in bright light. On a critical hit, the kukri deals 1d8 persistent bleed damage. If the target didn't already have persistent bleed damage when you scored the critical hit, you also gain 1d8 temporary Hit Points.",
@@ -54,6 +57,7 @@
     {
       "traits": ["Magical", "Transmutation"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=396",
+      "categories": ["Weapon", "Magic"],
       "name": "Twining Staff",
       "level": 6,
       "text": "Appearing to be just a small, flat disc made of twigs, this item can grow and shrink. +1 striking staff +1 striking bo staff",
@@ -68,6 +72,7 @@
     {
       "traits": ["Unique", "Evocation", "Light", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=503",
+      "categories": ["Weapon", "Magic"],
       "name": "Eclipse",
       "level": 8,
       "text": "This +1 returning striking cold iron starknife has an ornate central grip that depicts a silver dragon, the neck, wings, and tail of which wrap over and around the handle in knots to support the weapon's four cold iron blades. While the handle is polished to a mirrorlike shine, the blades of Eclipse are a flat black and entirely unreflective. Eclipse is also the portal key required to activate Dreamgate at Alseta's Ring. Whenever you score a critical hit with Eclipse , the target creature's eyes are plunged into darkness; if that creature doesn't have darkvision, it is blinded for 1 round.",
@@ -86,6 +91,7 @@
     {
       "traits": ["Uncommon", "Evocation", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=515",
+      "categories": ["Weapon", "Magic"],
       "name": "Crimson Brand",
       "level": 9,
       "text": "These ominous swords are decorated with crimson lacquer and serve as perfect conduits for the Crimson Oath's power. The first was granted to Clarethe Iomedar by a mysterious patron who many Reclaimers believe to be an emissary of Ragathiel. A crimson brand is a +1 striking wounding bastard sword . When the wielder uses the crimson brand to cast , they can generate a 60-foot line or a 30-foot cone instead of the normal 20-foot cone. Whenever the wielder would inflict on an undead creature with the crimson brand , they can instead wreathe the creature in ruby energy, inflicting the same amount of persistent positive damage instead of persistent bleed damage.",
@@ -98,6 +104,7 @@
     {
       "traits": ["Evocation", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=388",
+      "categories": ["Weapon", "Magic"],
       "name": "Gloom Blade",
       "level": 9,
       "text": "As black as coal, this blade grows more potent in darkness. While in bright light, it functions as a +1 shortsword and doesn't appear to radiate a magic aura to detect magic or similar spells unless the spells are 4th level or higher. In dim light or darkness, the gloom blade becomes a +2 striking shortsword . Whenever you use the gloom blade to attack a creature you're undetected by, you deal 1d6 additional precision damage. To upgrade the gloom blade's fundamental runes, start with the base +1 shortsword , but if you improve it beyond a +2 striking shortsword , the runes apply in dim light or darkness as well.",
@@ -110,6 +117,7 @@
     {
       "traits": ["Divination", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=392",
+      "categories": ["Weapon", "Magic"],
       "name": "Oathbow",
       "level": 11,
       "text": "Constructed of a flexible, white wood and with ornate, twisting designs carved into its surface, this +2 striking composite longbow appears to have been made by elves. Sometimes when you loose an arrow, its whistling in flight sounds like a voice whispering in Elven, wishing for the swift defeat of your enemies.",
@@ -125,6 +133,7 @@
     {
       "traits": ["Evocation", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=384",
+      "categories": ["Weapon", "Magic"],
       "name": "Dwarven Thrower",
       "level": 13,
       "text": "This +2 striking warhammer is inlaid with precious metals and decorated with geometric patterns in a dwarven style. If you're a dwarf, a dwarven thrower functions for you as a +2 greater striking returning warhammer with the thrown 30 feet trait, and your attacks with the hammer deal 1d8 additional damage against giants.",
@@ -140,6 +149,7 @@
       "actions": "Two Actions",
       "activate": "command, Interact;",
       "effect": "You cast the",
+      "categories": ["Weapon", "Magic"],
       "name": "Flame Tongue",
       "level": 13,
       "price": "2,800 gp",
@@ -151,6 +161,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=386",
+      "categories": ["Weapon", "Magic"],
       "name": "Flame Tongue (Greater)",
       "source": "Core Rulebook pg. 600",
       "level": 17,
@@ -173,6 +184,7 @@
       "frequency": "once per day; once per 10 minutes;",
       "effect": "You cast a 6th-level You try to divert the electricity off course, to be absorbed by",
       "trigger": "An electricity effect targets you or a creature within 10 feet of you, or has you or a creature within 10 feet of you in its area;",
+      "categories": ["Weapon", "Magic"],
       "name": "Storm Flash",
       "level": 14,
       "price": "4,000 gp",
@@ -184,6 +196,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=395",
+      "categories": ["Weapon", "Magic"],
       "name": "Storm Flash (Greater)",
       "source": "Core Rulebook pg. 602",
       "level": 18,
@@ -198,6 +211,7 @@
     {
       "traits": ["Uncommon", "Divine", "Evocation", "Good", "Lawful"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=389",
+      "categories": ["Weapon", "Magic"],
       "name": "Holy Avenger",
       "level": 14,
       "text": "The gleaming holy avenger is the iconic weapon of powerful . The crossbar of this +2 greater striking holy cold iron longsword is styled to look like angel wings. Tradition holds that those who see their reflection in a holy avenger's highly polished blade have their faults laid bare. If you are evil, you are enfeebled 2 while carrying or wielding this weapon. holy avenger detect alignment dispel magic",
@@ -217,6 +231,7 @@
     {
       "traits": ["Cold", "Evocation", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=387",
+      "categories": ["Weapon", "Magic"],
       "name": "Frost Brand",
       "level": 16,
       "text": "The blade of this +2 greater striking greater frost greatsword appears to be nothing but icy shards. The frost brand automatically extinguishes non-magical fires in a 20-foot emanation. While wielding it, you gain fire resistance 5. frost brand",
@@ -232,6 +247,7 @@
     {
       "traits": ["Uncommon", "Divine", "Evocation", "Fire", "Good", "Light"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=517",
+      "categories": ["Weapon", "Magic"],
       "name": "Radiant Lance",
       "level": 17,
       "text": "When wielded in battle, these silver lances blaze with light. A radiant lance is a +2 greater striking holy flaming silver lance . When wielded in battle, the radiant lance sheds bright light in a 60- foot radius. On a hit against an undead creature that is specifically vulnerable to sunlight, the lance bursts with a brilliant flash of light, and that undead must attempt a DC 35 Fortitude save. If the attack was a critical hit, the undead uses an outcome one degree of success worse than the result of its saving throw.",
@@ -256,6 +272,7 @@
       "frequency": "once per day;",
       "trigger": "You miss on a Strike with the luck blade;",
       "effect": "Reroll the triggering attack roll and use the new result. This is a",
+      "categories": ["Weapon", "Magic"],
       "name": "Luck Blade",
       "level": 17,
       "price": "15,000 gp",
@@ -267,6 +284,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=390",
+      "categories": ["Weapon", "Magic"],
       "name": "Luck Blade (Wishing)",
       "source": "Core Rulebook pg. 601",
       "level": 19,
@@ -281,6 +299,7 @@
     {
       "traits": ["Uncommon", "Evocation", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=391",
+      "categories": ["Weapon", "Magic"],
       "name": "Mattock of the Titans",
       "level": 19,
       "text": "This 15-foot-long adamantine digging tool is far too big for even a Large creature to wield, though if you're a Small or larger creature, you can wield it while wearing a , as though it were appropriately sized for you and had 2 Bulk. The GM might also allow you to wield the mattock if you have some other means of wielding oversized weapons, such as if you're a Large barbarian with the giant instinct or are a Huge creature. When it's used as a weapon, the mattock of the titans has the statistics of a +3 greater striking keen adamantine great\u00a0pick . While you're wielding the mattock of the titans , you gain a +3 item bonus to Athletics checks. You can use it to loosen or push soft earth at a rate of 1 minute per 5-foot cube or smash through solid stone at the rate of 5 minutes per 5-foot-cube.",
@@ -298,6 +317,7 @@
     {
       "traits": ["Rare", "Evocation", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=394",
+      "categories": ["Weapon", "Magic"],
       "name": "Sky Hammer",
       "level": 20,
       "text": "The sturdy, steel head of this +3 major striking flaming shock orichalcum warhammer is shaped like a blazing comet. sky hammer fireball's fireball",

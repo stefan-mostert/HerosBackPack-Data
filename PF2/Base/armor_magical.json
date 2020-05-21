@@ -5,7 +5,7 @@
     {
       "name": "Ghoul Hide",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=153",
-      "category": "Light",
+      "categories": ["Light", "Armor", "Magic"],
       "level": 6,
       "price": "220 gp",
       "bulk": "2",
@@ -17,7 +17,7 @@
     {
       "name": "Moonlit Chain",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=156",
-      "category": "Light",
+      "categories": ["Light", "Armor", "Magic"],
       "level": 7,
       "price": "360 gp",
       "bulk": "2",
@@ -29,7 +29,7 @@
     {
       "name": "Rhino Hide",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=158",
-      "category": "Medium",
+      "categories": ["Medium", "Armor", "Magic"],
       "level": 9,
       "price": "700 gp",
       "bulk": "2",
@@ -41,7 +41,7 @@
     {
       "name": "Electric Eelskin",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=152",
-      "category": "Light",
+      "categories": ["Light", "Armor", "Magic"],
       "level": 10,
       "price": "950 gp",
       "bulk": "1",
@@ -53,7 +53,7 @@
     {
       "name": "Breastplate of Command",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=148",
-      "category": "Medium",
+      "categories": ["Medium", "Armor", "Magic"],
       "level": 10,
       "price": "1,000 gp",
       "bulk": "2",
@@ -65,7 +65,7 @@
     {
       "name": "Celestial Armor",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=149",
-      "category": "Medium",
+      "categories": ["Medium", "Armor", "Magic"],
       "level": 13,
       "price": "2,500 gp",
       "bulk": "1",
@@ -77,7 +77,7 @@
     {
       "name": "Demon Armor",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=150",
-      "category": "Heavy",
+      "categories": ["Heavy", "Armor", "Magic"],
       "level": 13,
       "price": "2,500 gp",
       "bulk": "4",
@@ -89,7 +89,7 @@
     {
       "name": "Mail of Luck",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=155",
-      "category": "Heavy",
+      "categories": ["Heavy", "Armor", "Magic"],
       "level": 13,
       "price": "2,600 gp",
       "bulk": "3",
@@ -101,7 +101,7 @@
     {
       "name": "Glorious Plate",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=520",
-      "category": "Heavy",
+      "categories": ["Heavy", "Armor", "Magic"],
       "level": 14,
       "price": "4,500 gp",
       "bulk": "4",
@@ -113,7 +113,7 @@
     {
       "name": "Plate Armor of the Deep",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=157",
-      "category": "Heavy",
+      "categories": ["Heavy", "Armor", "Magic"],
       "level": 15,
       "price": "6,500 gp",
       "bulk": "4",
@@ -125,7 +125,7 @@
     {
       "name": "Dragonplate",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=151",
-      "category": "Heavy",
+      "categories": ["Heavy", "Armor", "Magic"],
       "level": 16,
       "price": "1,000 gp",
       "bulk": "4",
@@ -137,7 +137,7 @@
     {
       "name": "Impenetrable Scale",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=154",
-      "category": "Heavy",
+      "categories": ["Heavy", "Armor", "Magic"],
       "level": 17,
       "price": "12,800 gp",
       "bulk": "3",
@@ -149,7 +149,7 @@
     {
       "name": "Breastplate of Command (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=148",
-      "category": "Medium",
+      "categories": ["Medium", "Armor", "Magic"],
       "level": 18,
       "price": "22,000 gp",
       "bulk": "2",

@@ -5,6 +5,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=368",
       "source": "Core Rulebook pg. 597",
+      "categories": ["Wand"],
       "name": "Magic Wand (1st-Level Spell)",
       "Craft Requirements": "",
       "Level": "3; ",
@@ -23,6 +24,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=368",
+      "categories": ["Wand"],
       "name": "Magic Wand (2nd-Level Spell)",
       "price": "160 gp",
       "source": "Core Rulebook pg. 597",
@@ -41,6 +43,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=368",
+      "categories": ["Wand"],
       "name": "Magic Wand (3rd-Level Spell)",
       "price": "360 gp",
       "source": "Core Rulebook pg. 597",
@@ -59,6 +62,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=368",
+      "categories": ["Wand"],
       "name": "Magic Wand (4th-Level Spell)",
       "price": "700 gp",
       "source": "Core Rulebook pg. 597",
@@ -77,6 +81,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=368",
+      "categories": ["Wand"],
       "name": "Magic Wand (5th-Level Spell)",
       "price": "1,500 gp",
       "source": "Core Rulebook pg. 597",
@@ -95,6 +100,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=368",
+      "categories": ["Wand"],
       "name": "Magic Wand (6th-Level Spell)",
       "price": "3,000 gp",
       "source": "Core Rulebook pg. 597",
@@ -113,6 +119,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=368",
+      "categories": ["Wand"],
       "name": "Magic Wand (7th-Level Spell)",
       "price": "6,500 gp",
       "source": "Core Rulebook pg. 597",
@@ -131,6 +138,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=368",
+      "categories": ["Wand"],
       "name": "Magic Wand (8th-Level Spell)",
       "price": "15,000 gp",
       "source": "Core Rulebook pg. 597",
@@ -149,6 +157,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=368",
+      "categories": ["Wand"],
       "name": "Magic Wand (9th-Level Spell)",
       "price": "40,000 gp",
       "source": "Core Rulebook pg. 597",
@@ -167,6 +176,7 @@
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=373",
       "source": "Core Rulebook pg. 598",
       "actions": "Two Actions",
+      "categories": ["Wand"],
       "name": "Wand of Widening (1st-Level Spell)",
       "Craft Requirements": "",
       "Level": "4; ",
@@ -183,6 +193,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=373",
+      "categories": ["Wand"],
       "name": "Wand of Widening (2nd-Level Spell)",
       "price": "250 gp",
       "source": "Core Rulebook pg. 598",
@@ -199,6 +210,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=373",
+      "categories": ["Wand"],
       "name": "Wand of Widening (3rd-Level Spell)",
       "price": "500 gp",
       "source": "Core Rulebook pg. 598",
@@ -215,6 +227,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=373",
+      "categories": ["Wand"],
       "name": "Wand of Widening (4th-Level Spell)",
       "price": "1,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -231,6 +244,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=373",
+      "categories": ["Wand"],
       "name": "Wand of Widening (5th-Level Spell)",
       "price": "2,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -247,6 +261,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=373",
+      "categories": ["Wand"],
       "name": "Wand of Widening (6th-Level Spell)",
       "price": "4,500 gp",
       "source": "Core Rulebook pg. 598",
@@ -263,6 +278,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=373",
+      "categories": ["Wand"],
       "name": "Wand of Widening (7th-Level Spell)",
       "price": "10,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -279,6 +295,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=373",
+      "categories": ["Wand"],
       "name": "Wand of Widening (8th-Level Spell)",
       "price": "24,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -295,6 +312,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=373",
+      "categories": ["Wand"],
       "name": "Wand of Widening (9th-Level Spell)",
       "price": "70,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -313,6 +331,7 @@
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=369",
       "source": "Core Rulebook pg. 598",
       "actions": "Two Actions",
+      "categories": ["Wand"],
       "name": "Wand of Continuation (1st-Level Spell)",
       "Craft Requirements": "",
       "Level": "5; ",
@@ -331,6 +350,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=369",
+      "categories": ["Wand"],
       "name": "Wand of Continuation (2nd-Level Spell)",
       "price": "360 gp",
       "source": "Core Rulebook pg. 598",
@@ -349,6 +369,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=369",
+      "categories": ["Wand"],
       "name": "Wand of Continuation (3rd-Level Spell)",
       "price": "700 gp",
       "source": "Core Rulebook pg. 598",
@@ -367,6 +388,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=369",
+      "categories": ["Wand"],
       "name": "Wand of Continuation (4th-Level Spell)",
       "price": "1,500 gp",
       "source": "Core Rulebook pg. 598",
@@ -385,6 +407,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=369",
+      "categories": ["Wand"],
       "name": "Wand of Continuation (5th-Level Spell)",
       "price": "3,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -403,6 +426,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=369",
+      "categories": ["Wand"],
       "name": "Wand of Continuation (6th-Level Spell)",
       "price": "6,500 gp",
       "source": "Core Rulebook pg. 598",
@@ -421,6 +445,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=369",
+      "categories": ["Wand"],
       "name": "Wand of Continuation (7th-Level Spell)",
       "price": "15,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -439,6 +464,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=369",
+      "categories": ["Wand"],
       "name": "Wand of Continuation (8th-Level Spell)",
       "price": "40,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -456,6 +482,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=370",
       "source": "Core Rulebook pg. 598",
+      "categories": ["Wand"],
       "name": "Wand of Manifold Missiles (1st-Level Spell)",
       "Craft Requirements": "",
       "Level": "5; ",
@@ -474,6 +501,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=370",
+      "categories": ["Wand"],
       "name": "Wand of Manifold Missiles (3rd-Level Spell)",
       "price": "700 gp",
       "source": "Core Rulebook pg. 598",
@@ -492,6 +520,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=370",
+      "categories": ["Wand"],
       "name": "Wand of Manifold Missiles (5th-Level Spell)",
       "price": "3,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -510,6 +539,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=370",
+      "categories": ["Wand"],
       "name": "Wand of Manifold Missiles (7th-Level Spell)",
       "price": "15,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -527,6 +557,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=372",
       "source": "Core Rulebook pg. 598",
+      "categories": ["Wand"],
       "name": "Wand of Smoldering Fireballs (3rd-Level Spell)",
       "Craft Requirements": "",
       "Level": "8; ",
@@ -546,6 +577,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=372",
+      "categories": ["Wand"],
       "name": "Wand of Smoldering Fireballs (5th-Level Spell)",
       "Persistent Damage": "2d6",
       "source": "Core Rulebook pg. 598",
@@ -565,6 +597,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=372",
+      "categories": ["Wand"],
       "name": "Wand of Smoldering Fireballs (7th-Level Spell)",
       "Persistent Damage": "3d6",
       "source": "Core Rulebook pg. 598",
@@ -584,6 +617,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=372",
+      "categories": ["Wand"],
       "name": "Wand of Smoldering Fireballs (9th-Level Spell)",
       "Persistent Damage": "4d6",
       "source": "Core Rulebook pg. 598",
@@ -602,6 +636,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=371",
       "source": "Core Rulebook pg. 598",
+      "categories": ["Wand"],
       "name": "Wand of Slaying (7th-Level Spell)",
       "Craft Requirements": "",
       "Level": "16; ",
@@ -620,6 +655,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=371",
+      "categories": ["Wand"],
       "name": "Wand of Slaying (8th-Level Spell)",
       "price": "24,000 gp",
       "source": "Core Rulebook pg. 598",
@@ -638,6 +674,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=371",
+      "categories": ["Wand"],
       "name": "Wand of Slaying (9th-Level Spell)",
       "price": "70,000 gp",
       "source": "Core Rulebook pg. 598",

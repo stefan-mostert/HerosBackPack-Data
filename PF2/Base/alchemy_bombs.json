@@ -5,6 +5,7 @@
     {
       "source": "Core Rulebook pg. 544",
       "actions": "Single Action",
+      "categories": ["Bomb"],
       "name": "Acid Flask (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=74",
       "level": 1,
@@ -16,6 +17,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Acid Flask (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=74",
       "source": "Core Rulebook pg. 544",
@@ -29,6 +31,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Acid Flask (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=74",
       "source": "Core Rulebook pg. 544",
@@ -42,6 +45,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Acid Flask (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=74",
       "source": "Core Rulebook pg. 544",
@@ -57,6 +61,7 @@
     {
       "source": "Core Rulebook pg. 545",
       "actions": "Single Action",
+      "categories": ["Bomb"],
       "name": "Alchemist's Fire (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=75",
       "level": 1,
@@ -68,6 +73,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Alchemist's Fire (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=75",
       "source": "Core Rulebook pg. 545",
@@ -81,6 +87,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Alchemist's Fire (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=75",
       "source": "Core Rulebook pg. 545",
@@ -94,6 +101,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Alchemist's Fire (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=75",
       "source": "Core Rulebook pg. 545",
@@ -109,6 +117,7 @@
     {
       "source": "Core Rulebook pg. 545",
       "actions": "Single Action",
+      "categories": ["Bomb"],
       "name": "Bottled Lightning (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=76",
       "level": 1,
@@ -120,6 +129,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Bottled Lightning (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=76",
       "source": "Core Rulebook pg. 545",
@@ -133,6 +143,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Bottled Lightning (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=76",
       "source": "Core Rulebook pg. 545",
@@ -146,6 +157,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Bottled Lightning (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=76",
       "source": "Core Rulebook pg. 545",
@@ -161,6 +173,7 @@
     {
       "source": "Core Rulebook pg. 545",
       "actions": "Single Action",
+      "categories": ["Bomb"],
       "name": "Frost Vial (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=77",
       "level": 1,
@@ -172,6 +185,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Frost Vial (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=77",
       "source": "Core Rulebook pg. 545",
@@ -185,6 +199,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Frost Vial (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=77",
       "source": "Core Rulebook pg. 545",
@@ -198,6 +213,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Frost Vial (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=77",
       "source": "Core Rulebook pg. 545",
@@ -213,6 +229,7 @@
     {
       "source": "Pathfinder #149: Against the Scarlet Triad pg. 77",
       "actions": "Single Action",
+      "categories": ["Bomb"],
       "name": "Peshpine Grenade (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=549",
       "level": 1,
@@ -224,6 +241,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Peshpine Grenade (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=549",
       "source": "Pathfinder #149: Against the Scarlet Triad pg. 77",
@@ -237,6 +255,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Peshpine Grenade (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=549",
       "source": "Pathfinder #149: Against the Scarlet Triad pg. 77",
@@ -250,6 +269,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Peshpine Grenade (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=549",
       "source": "Pathfinder #149: Against the Scarlet Triad pg. 77",
@@ -265,6 +285,7 @@
     {
       "source": "Core Rulebook pg. 545",
       "actions": "Single Action",
+      "categories": ["Bomb"],
       "name": "Tanglefoot Bag (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=78",
       "level": 1,
@@ -276,6 +297,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Tanglefoot Bag (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=78",
       "source": "Core Rulebook pg. 545",
@@ -289,6 +311,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Tanglefoot Bag (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=78",
       "source": "Core Rulebook pg. 545",
@@ -302,6 +325,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Tanglefoot Bag (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=78",
       "source": "Core Rulebook pg. 545",
@@ -317,6 +341,7 @@
     {
       "source": "Core Rulebook pg. 546",
       "actions": "Single Action",
+      "categories": ["Bomb"],
       "name": "Thunderstone (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=79",
       "level": 1,
@@ -328,6 +353,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Thunderstone (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=79",
       "source": "Core Rulebook pg. 546",
@@ -341,6 +367,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Thunderstone (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=79",
       "source": "Core Rulebook pg. 546",
@@ -354,6 +381,7 @@
       "activate": "Strike"
     },
     {
+      "categories": ["Bomb"],
       "name": "Thunderstone (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=79",
       "source": "Core Rulebook pg. 546",

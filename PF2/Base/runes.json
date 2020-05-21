@@ -5,6 +5,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=289",
       "source": "Core Rulebook pg. 583",
+      "categories": ["Rune"],
       "name": "Slick",
       "level": 3,
       "price": "45 gp",
@@ -15,6 +16,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=289",
+      "categories": ["Rune"],
       "name": "Slick (Greater)",
       "source": "Core Rulebook pg. 583",
       "level": 8,
@@ -26,6 +28,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=289",
+      "categories": ["Rune"],
       "name": "Slick (Major)",
       "source": "Core Rulebook pg. 583",
       "level": 16,
@@ -38,6 +41,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=288",
       "source": "Core Rulebook pg. 583",
+      "categories": ["Rune"],
       "name": "Shadow",
       "level": 3,
       "price": "55 gp",
@@ -48,6 +52,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=288",
+      "categories": ["Rune"],
       "name": "Shadow (Greater)",
       "source": "Core Rulebook pg. 583",
       "level": 9,
@@ -59,6 +64,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=288",
+      "categories": ["Rune"],
       "name": "Shadow (Major)",
       "source": "Core Rulebook pg. 583",
       "level": 17,
@@ -70,6 +76,7 @@
     },
     {
       "traits": ["Illusion", "Magical"],
+      "categories": ["Rune"],
       "name": "Glamered",
       "text": "This armor can be disguised with a mere thought. or a similar effect can attempt to disbelieve this\u00a0illusion, with a DC of 25.",
       "source": "Core Rulebook pg. 583",
@@ -84,6 +91,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=283",
       "source": "Core Rulebook pg. 582",
+      "categories": ["Rune"],
       "name": "Energy-Resistant",
       "level": 8,
       "price": "420 gp",
@@ -94,6 +102,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=283",
+      "categories": ["Rune"],
       "name": "Energy-Resistant (Greater)",
       "source": "Core Rulebook pg. 582",
       "level": 12,
@@ -107,6 +116,7 @@
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=287",
       "source": "Core Rulebook pg. 583",
       "actions": "Single Action",
+      "categories": ["Rune"],
       "name": "Invisibility",
       "level": 8,
       "price": "500 gp",
@@ -121,6 +131,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=287",
+      "categories": ["Rune"],
       "name": "Invisibility (Greater)",
       "source": "Core Rulebook pg. 583",
       "level": 10,
@@ -137,6 +148,7 @@
     },
     {
       "traits": ["Uncommon", "Abjuration", "Illusion", "Magical"],
+      "categories": ["Rune"],
       "name": "Sinister Knight",
       "text": "Sinister knight armor shrouds the wearer's identity in secrecy, allowing Crimson Reclaimers to pass among foes without being immediately unmasked. The wearer gains a +1 item bonus to checks. sinister knight , and even a creature that successfully notices the wearer with its lifesense mistakes the wearer for an undead unless it critically succeeds at its Perception check or the wearer critically fails a Deception or check. Finally, while in the disguise, the rune attempts to any effects that would reveal your alignment; on a successful counteract check, rather than negate the effect, the rune causes the effect to perceive your alignment as evil (maintaining any lawful or chaotic component of your alignment). The wearer can the disguise, and if the wearer's armor is removed, the disguise deactivates automatically.",
       "source": "Lost Omens Character Guide pg. 92",
@@ -151,6 +163,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=285",
       "source": "Core Rulebook pg. 582",
+      "categories": ["Rune"],
       "name": "Fortification",
       "level": 12,
       "price": "2,000 gp",
@@ -161,6 +174,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=285",
+      "categories": ["Rune"],
       "name": "Fortification (Greater)",
       "source": "Core Rulebook pg. 582",
       "level": 18,
@@ -172,6 +186,7 @@
     },
     {
       "traits": ["Rare", "Abjuration", "Dwarf", "Magical", "Saggorak"],
+      "categories": ["Rune"],
       "name": "Rock-Braced",
       "text": "Rock-braced armor makes you as hard to move as a boulder. Whenever another creature attempts to forcibly move you from your space, you gain a +4 item bonus to your Fortitude DC against the check to move you. If the creature would not normally need to attempt a check to move you, then the creature must succeed at an check against your Fortitude DC (including the +4 item bonus) or you are unmoved.",
       "source": "Pathfinder #148: Fires of the Haunted City pg. 75",
@@ -182,6 +197,7 @@
     },
     {
       "traits": ["Uncommon", "Abjuration", "Magical"],
+      "categories": ["Rune"],
       "name": "Antimagic",
       "text": "This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects. spell and a counteract modifier of +26. dispel magic",
       "source": "Core Rulebook pg. 582",
@@ -198,6 +214,7 @@
     },
     {
       "traits": ["Uncommon", "Conjuration", "Magical"],
+      "categories": ["Rune"],
       "name": "Ethereal",
       "text": "An ethereal rune replicates armor on the Ethereal Plane. spell. This doesn't require concentration and lasts for 10 minutes or until you choose to return to material form as a free action. ethereal jaunt",
       "source": "Core Rulebook pg. 582",
@@ -214,6 +231,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=278",
       "source": "Core Rulebook pg. 581",
+      "categories": ["Rune"],
       "name": "Armor Potency (+1)",
       "level": 5,
       "price": "160 gp",
@@ -225,6 +243,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=278",
+      "categories": ["Rune"],
       "name": "Armor Potency (+2)",
       "source": "Core Rulebook pg. 581",
       "level": 11,
@@ -237,6 +256,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=278",
+      "categories": ["Rune"],
       "name": "Armor Potency (+3)",
       "source": "Core Rulebook pg. 581",
       "level": 18,
@@ -250,6 +270,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=279",
       "source": "Core Rulebook pg. 581",
+      "categories": ["Rune"],
       "name": "Resilient",
       "level": 8,
       "price": "340 gp",
@@ -260,6 +281,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=279",
+      "categories": ["Rune"],
       "name": "Resilient (Greater)",
       "source": "Core Rulebook pg. 581",
       "level": 14,
@@ -271,6 +293,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=279",
+      "categories": ["Rune"],
       "name": "Resilient (Major)",
       "source": "Core Rulebook pg. 581",
       "level": 20,
@@ -285,6 +308,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=281",
       "source": "Core Rulebook pg. 581",
+      "categories": ["Rune"],
       "name": "Weapon Potency (+1)",
       "level": 2,
       "price": "35 gp",
@@ -296,6 +320,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=281",
+      "categories": ["Rune"],
       "name": "Weapon Potency (+2)",
       "source": "Core Rulebook pg. 581",
       "level": 10,
@@ -308,6 +333,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=281",
+      "categories": ["Rune"],
       "name": "Weapon Potency (+3)",
       "source": "Core Rulebook pg. 581",
       "level": 16,
@@ -321,6 +347,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=280",
       "source": "Core Rulebook pg. 581",
+      "categories": ["Rune"],
       "name": "Striking",
       "level": 4,
       "price": "65 gp",
@@ -331,6 +358,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=280",
+      "categories": ["Rune"],
       "name": "Striking (Greater)",
       "source": "Core Rulebook pg. 581",
       "level": 12,
@@ -342,6 +370,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=280",
+      "categories": ["Rune"],
       "name": "Striking (Major)",
       "source": "Core Rulebook pg. 581",
       "level": 19,
@@ -353,6 +382,7 @@
     },
     {
       "traits": ["Uncommon", "Abjuration", "Dwarf", "Magical"],
+      "categories": ["Rune"],
       "name": "Kin-Warding",
       "text": "A kin-warding clan dagger can deflect attacks aimed at your allies. When you use the weapon's trait, you can point the clan dagger at an adjacent ally instead of defending yourself, creating a shield of runes around them. The runic barrier grants your ally the weapon's circumstance bonus to AC, but you do not gain the bonus yourself.",
       "source": "Pathfinder #148: Fires of the Haunted City pg. 75",
@@ -363,6 +393,7 @@
     },
     {
       "traits": ["Evocation", "Magical"],
+      "categories": ["Rune"],
       "name": "Returning",
       "text": "When you make a thrown Strike with this weapon, it flies back to your hand after the Strike is complete. If your hands are full when the weapon returns, it falls to the ground in your space.",
       "source": "Core Rulebook pg. 584",
@@ -373,6 +404,7 @@
     },
     {
       "traits": ["Magical", "Transmutation"],
+      "categories": ["Rune"],
       "name": "Ghost Touch",
       "text": "The weapon can harm creatures without physical form. A ghost touch weapon is particularly effective against incorporeal creatures, which almost always have a specific weakness to ghost touch weapons. Incorporeal creatures can touch, hold, and wield ghost touch weapons (unlike most physical objects).",
       "source": "Core Rulebook pg. 584",
@@ -384,6 +416,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=294",
       "source": "Core Rulebook pg. 584",
+      "categories": ["Rune"],
       "name": "Disrupting",
       "level": 5,
       "price": "150 gp",
@@ -394,6 +427,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=294",
+      "categories": ["Rune"],
       "name": "Disrupting (Greater)",
       "source": "Core Rulebook pg. 584",
       "level": 14,
@@ -409,6 +443,7 @@
     },
     {
       "traits": ["Magical", "Transmutation"],
+      "categories": ["Rune"],
       "name": "Shifting",
       "text": "With a moment of manipulation, you can shift this weapon into a different weapon with a similar form.",
       "source": "Core Rulebook pg. 585",
@@ -422,6 +457,7 @@
     },
     {
       "traits": ["Magical", "Necromancy"],
+      "categories": ["Rune"],
       "name": "Wounding",
       "text": "Weapons with wounding runes are said to thirst for blood. When you hit a creature with a wounding weapon, you deal an extra 1d6 persistent bleed damage. On a critical hit, it instead deals 1d12 persistent bleed damage.",
       "source": "Core Rulebook pg. 585",
@@ -433,6 +469,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=539",
       "source": "Pathfinder #148: Fires of the Haunted City pg. 75",
+      "categories": ["Rune"],
       "name": "Bloodbane",
       "level": 8,
       "price": "475 gp",
@@ -443,6 +480,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=539",
+      "categories": ["Rune"],
       "name": "Greater Bloodbane",
       "source": "Pathfinder #148: Fires of the Haunted City pg. 75",
       "level": 13,
@@ -455,6 +493,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=292",
       "source": "Core Rulebook pg. 583",
+      "categories": ["Rune"],
       "name": "Corrosive",
       "level": 8,
       "price": "500 gp",
@@ -465,6 +504,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=292",
+      "categories": ["Rune"],
       "name": "Corrosive (Greater)",
       "source": "Core Rulebook pg. 583",
       "level": 15,
@@ -477,6 +517,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=295",
       "source": "Core Rulebook pg. 584",
+      "categories": ["Rune"],
       "name": "Flaming",
       "level": 8,
       "price": "500 gp",
@@ -487,6 +528,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=295",
+      "categories": ["Rune"],
       "name": "Flaming (Greater)",
       "source": "Core Rulebook pg. 584",
       "level": 15,
@@ -499,6 +541,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=296",
       "source": "Core Rulebook pg. 584",
+      "categories": ["Rune"],
       "name": "Frost",
       "level": 8,
       "price": "500 gp",
@@ -509,6 +552,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=296",
+      "categories": ["Rune"],
       "name": "Frost (Greater)",
       "source": "Core Rulebook pg. 584",
       "level": 15,
@@ -521,6 +565,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=303",
       "source": "Core Rulebook pg. 585",
+      "categories": ["Rune"],
       "name": "Shock",
       "level": 8,
       "price": "500 gp",
@@ -531,6 +576,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=303",
+      "categories": ["Rune"],
       "name": "Shock (Greater)",
       "source": "Core Rulebook pg. 585",
       "level": 15,
@@ -543,6 +589,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=306",
       "source": "Core Rulebook pg. 585",
+      "categories": ["Rune"],
       "name": "Thundering",
       "level": 8,
       "price": "500 gp",
@@ -553,6 +600,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=306",
+      "categories": ["Rune"],
       "name": "Thundering (Greater)",
       "source": "Core Rulebook pg. 585",
       "level": 15,
@@ -564,6 +612,7 @@
     },
     {
       "traits": ["Enchantment", "Magical"],
+      "categories": ["Rune"],
       "name": "Grievous",
       "text": "When your attack roll with this weapon is a critical hit and gains the critical specialization effect, you gain an additional benefit depending on the weapon group.",
       "source": "Core Rulebook pg. 584",
@@ -588,6 +637,7 @@
     },
     {
       "traits": ["Uncommon", "Evocation", "Magical"],
+      "categories": ["Rune"],
       "name": "Serrating",
       "text": "A serrating weapon's bladed edge separates into jagged, swirling shards that spin along the blade. When dealing slashing damage, the weapon deals an additional 1d4 damage. serrating",
       "source": "Lost Omens Character Guide pg. 93",
@@ -601,6 +651,7 @@
     },
     {
       "traits": ["Chaotic", "Evocation", "Magical"],
+      "categories": ["Rune"],
       "name": "Anarchic",
       "text": "An anarchic rune is jagged and asymmetrical, channeling chaotic energy. A weapon with this rune deals an additional 1d6 chaotic damage against lawful targets. If you are lawful, you are enfeebled 2 while carrying or wielding this weapon. When you critically succeed at a Strike with this weapon against a lawful creature, roll 1d6. On a 1 or 2, you deal double minimum damage; on a 3 or 4, double your damage normally; on a 5 or 6, you deal double maximum damage.",
       "source": "Core Rulebook pg. 583",
@@ -612,6 +663,7 @@
     },
     {
       "traits": ["Evocation", "Lawful", "Magical"],
+      "categories": ["Rune"],
       "name": "Axiomatic",
       "text": "Complex and symmetrical, an axiomatic rune imbues a weapon with lawful energy. A weapon with this rune deals an additional 1d6 lawful damage against chaotic targets. If you are chaotic, you are enfeebled 2 while carrying or wielding this weapon. When you critically succeed at an attack roll with this weapon against a chaotic creature, instead of rolling, count each weapon damage die as average damage rounded up (3 for d4, 4 for d6, 5 for d8, 6 for d10, 7 for d12).",
       "source": "Core Rulebook pg. 583",
@@ -623,6 +675,7 @@
     },
     {
       "traits": ["Evocation", "Good", "Magical"],
+      "categories": ["Rune"],
       "name": "Holy",
       "text": "Holy weapons command powerful celestial energy. A weapon with this rune deals an extra 1d6 good damage against evil targets. If you are evil, you are enfeebled 2 while carrying or wielding this weapon.",
       "source": "Core Rulebook pg. 584",
@@ -639,6 +692,7 @@
     },
     {
       "traits": ["Evil", "Evocation", "Magical"],
+      "categories": ["Rune"],
       "name": "Unholy",
       "text": "An unholy rune instills fiendish power into the etched weapon. A weapon with this rune deals an additional 1d6 evil damage when it hits a good target. If you are good, you are enfeebled 2 while carrying or wielding this weapon.",
       "source": "Core Rulebook pg. 585",
@@ -654,6 +708,7 @@
     },
     {
       "traits": ["Uncommon", "Evocation", "Magical"],
+      "categories": ["Rune"],
       "name": "Dancing",
       "text": "A dancing weapon flies autonomously and strikes your foes. dancing",
       "source": "Core Rulebook pg. 583",
@@ -667,6 +722,7 @@
     },
     {
       "traits": ["Uncommon", "Abjuration", "Magical"],
+      "categories": ["Rune"],
       "name": "Spell-Storing",
       "text": "A spell-storing rune creates a reservoir of eldritch energy within the etched weapon. A spellcaster can spend 1 minute to cast a spell of 3rd level or lower into the weapon. The spell must have a casting of 2 actions or fewer and must be able to target a creature other than the caster. The spell has no immediate effect\u2014it is instead stored for later. When you wield a spell-storing weapon, you immediately know the name and level of the stored spell. A spell-storing weapon found as treasure has a 50% chance of having a spell of the GM's choice stored in it.",
       "source": "Core Rulebook pg. 585",
@@ -681,6 +737,7 @@
     },
     {
       "traits": ["Uncommon", "Magical", "Transmutation"],
+      "categories": ["Rune"],
       "name": "Keen",
       "text": "The edges of a keen weapon are preternaturally sharp. Attacks with this weapon are a critical hit on a 19 on the die as long as that result is a success. This property has no effect on a 19 if the result would be a failure.",
       "source": "Core Rulebook pg. 584",
@@ -691,6 +748,7 @@
     },
     {
       "traits": ["Rare", "Dwarf", "Evocation", "Magical", "Saggorak"],
+      "categories": ["Rune"],
       "name": "Ancestral Echoing",
       "text": "The wisdom of this weapon's past owners flows into your mind, amplifying your own abilities with the weapon. Your proficiency rank with this weapon is one step higher than normal, to a maximum of the highest proficiency rank you have in any weapon. For instance, if you had master proficieny with martial weapons and expert proficiency with advanced weapons, you would have master proficiency with advanced weapon that had this rune. In addition, while wielding the ancestral echoing weapon, you have expert proficiency in one skill relevant to one or more of the weapon's previous owners. This is typically Dwarven Lore but is ultimately determined by the GM depending on the weapon's history.",
       "source": "Pathfinder #148: Fires of the Haunted City pg. 75",
@@ -701,6 +759,7 @@
     },
     {
       "traits": ["Rare", "Magical", "Transmutation"],
+      "categories": ["Rune"],
       "name": "Speed",
       "text": "Attacks with a speed weapon are supernaturally swift. While wielding a speed weapon, you gain the quickened condition, but you can use the additional action granted only to make a Strike with the etched weapon.",
       "source": "Core Rulebook pg. 585",
@@ -711,6 +770,7 @@
     },
     {
       "traits": ["Rare", "Evocation", "Magical"],
+      "categories": ["Rune"],
       "name": "Vorpal",
       "text": "Originally created as a means of slaying the legendary jabberwock, vorpal weapons prove equally effective against nearly any foe with a head.",
       "source": "Core Rulebook pg. 585",

@@ -5,6 +5,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=356",
       "source": "Core Rulebook pg. 595",
+      "categories": ["Staff"],
       "name": "Staff of Fire",
       "Level": "3; ",
       "price": "60 gp",
@@ -22,6 +23,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=356",
+      "categories": ["Staff"],
       "name": "Staff of Fire (Greater)",
       "source": "Core Rulebook pg. 595",
       "Level": "8; ",
@@ -43,6 +45,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=356",
+      "categories": ["Staff"],
       "name": "Staff of Fire (Major)",
       "source": "Core Rulebook pg. 595",
       "Level": "12; ",
@@ -65,6 +68,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=349",
       "source": "Core Rulebook pg. 593",
+      "categories": ["Staff"],
       "name": "Animal Staff",
       "Level": "4; ",
       "price": "90 gp",
@@ -82,6 +86,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=349",
+      "categories": ["Staff"],
       "name": "Animal Staff (Greater)",
       "source": "Core Rulebook pg. 593",
       "Level": "8; ",
@@ -103,6 +108,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=349",
+      "categories": ["Staff"],
       "name": "Animal Staff (Major)",
       "source": "Core Rulebook pg. 593",
       "Level": "12; ",
@@ -125,6 +131,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=357",
       "source": "Core Rulebook pg. 595",
+      "categories": ["Staff"],
       "name": "Staff of Healing",
       "Level": "4; ",
       "price": "90 gp",
@@ -145,6 +152,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=357",
+      "categories": ["Staff"],
       "name": "Staff of Healing (Greater)",
       "source": "Core Rulebook pg. 595",
       "Level": "8; ",
@@ -169,6 +177,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=357",
+      "categories": ["Staff"],
       "name": "Staff of Healing (Major)",
       "source": "Core Rulebook pg. 595",
       "Level": "12; ",
@@ -193,6 +202,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=357",
+      "categories": ["Staff"],
       "name": "Staff of Healing (True)",
       "source": "Core Rulebook pg. 595",
       "Level": "16; ",
@@ -218,6 +228,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=350",
       "source": "Core Rulebook pg. 593",
+      "categories": ["Staff"],
       "name": "Mentalist's Staff",
       "Level": "4; ",
       "price": "230 gp",
@@ -235,6 +246,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=350",
+      "categories": ["Staff"],
       "name": "Mentalist's Staff (Greater)",
       "source": "Core Rulebook pg. 593",
       "Level": "8; ",
@@ -253,6 +265,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=350",
+      "categories": ["Staff"],
       "name": "Mentalist's Staff (Major)",
       "source": "Core Rulebook pg. 593",
       "Level": "12; ",
@@ -275,6 +288,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=364",
       "source": "Core Rulebook pg. 596",
+      "categories": ["Staff"],
       "name": "Verdant Staff",
       "Level": "6; ",
       "price": "225 gp",
@@ -296,6 +310,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=351",
       "source": "Core Rulebook pg. 594",
+      "categories": ["Staff"],
       "name": "Staff of Abjuration",
       "Level": "6; ",
       "price": "230 gp",
@@ -317,6 +332,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=351",
+      "categories": ["Staff"],
       "name": "Staff of Abjuration (Greater)",
       "source": "Core Rulebook pg. 594",
       "Level": "10; ",
@@ -338,6 +354,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=351",
+      "categories": ["Staff"],
       "name": "Staff of Abjuration (Major)",
       "source": "Core Rulebook pg. 594",
       "Level": "14; ",
@@ -360,6 +377,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=352",
       "source": "Core Rulebook pg. 594",
+      "categories": ["Staff"],
       "name": "Staff of Conjuration",
       "Level": "6; ",
       "price": "230 gp",
@@ -381,6 +399,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=352",
+      "categories": ["Staff"],
       "name": "Staff of Conjuration (Greater)",
       "source": "Core Rulebook pg. 594",
       "Level": "10; ",
@@ -402,6 +421,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=352",
+      "categories": ["Staff"],
       "name": "Staff of Conjuration (Major)",
       "source": "Core Rulebook pg. 594",
       "Level": "14; ",
@@ -424,6 +444,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=353",
       "source": "Core Rulebook pg. 594",
+      "categories": ["Staff"],
       "name": "Staff of Divination",
       "Level": "6; ",
       "price": "230 gp",
@@ -445,6 +466,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=353",
+      "categories": ["Staff"],
       "name": "Staff of Divination (Greater)",
       "source": "Core Rulebook pg. 594",
       "Level": "10; ",
@@ -466,6 +488,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=353",
+      "categories": ["Staff"],
       "name": "Staff of Divination (Major)",
       "source": "Core Rulebook pg. 594",
       "Level": "14; ",
@@ -485,6 +508,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=354",
       "source": "Core Rulebook pg. 594",
+      "categories": ["Staff"],
       "name": "Staff of Enchantment",
       "Level": "6; ",
       "price": "230 gp",
@@ -506,6 +530,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=354",
+      "categories": ["Staff"],
       "name": "Staff of Enchantment (Greater)",
       "source": "Core Rulebook pg. 594",
       "Level": "10; ",
@@ -524,6 +549,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=354",
+      "categories": ["Staff"],
       "name": "Staff of Enchantment (Major)",
       "source": "Core Rulebook pg. 594",
       "Level": "14; ",
@@ -543,6 +569,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=355",
       "source": "Core Rulebook pg. 594",
+      "categories": ["Staff"],
       "name": "Staff of Evocation",
       "Level": "6; ",
       "price": "230 gp",
@@ -564,6 +591,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=355",
+      "categories": ["Staff"],
       "name": "Staff of Evocation (Greater)",
       "source": "Core Rulebook pg. 594",
       "Level": "10; ",
@@ -585,6 +613,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=355",
+      "categories": ["Staff"],
       "name": "Staff of Evocation (Major)",
       "source": "Core Rulebook pg. 594",
       "Level": "14; ",
@@ -607,6 +636,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=359",
       "source": "Core Rulebook pg. 595",
+      "categories": ["Staff"],
       "name": "Staff of Illusion",
       "Level": "6; ",
       "price": "230 gp",
@@ -628,6 +658,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=359",
+      "categories": ["Staff"],
       "name": "Staff of Illusion (Greater)",
       "source": "Core Rulebook pg. 595",
       "Level": "10; ",
@@ -649,6 +680,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=359",
+      "categories": ["Staff"],
       "name": "Staff of Illusion (Major)",
       "source": "Core Rulebook pg. 595",
       "Level": "14; ",
@@ -668,6 +700,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=360",
       "source": "Core Rulebook pg. 595",
+      "categories": ["Staff"],
       "name": "Staff of Necromancy",
       "Level": "6; ",
       "price": "230 gp",
@@ -689,6 +722,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=360",
+      "categories": ["Staff"],
       "name": "Staff of Necromancy (Greater)",
       "source": "Core Rulebook pg. 595",
       "Level": "10; ",
@@ -710,6 +744,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=360",
+      "categories": ["Staff"],
       "name": "Staff of Necromancy (Major)",
       "source": "Core Rulebook pg. 595",
       "Level": "14; ",
@@ -732,6 +767,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=363",
       "source": "Core Rulebook pg. 596",
+      "categories": ["Staff"],
       "name": "Staff of Transmutation",
       "Level": "6; ",
       "price": "230 gp",
@@ -753,6 +789,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=363",
+      "categories": ["Staff"],
       "name": "Staff of Transmutation (Greater)",
       "source": "Core Rulebook pg. 596",
       "Level": "10; ",
@@ -771,6 +808,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=363",
+      "categories": ["Staff"],
       "name": "Staff of Transmutation (Major)",
       "source": "Core Rulebook pg. 596",
       "Level": "14; ",
@@ -792,6 +830,7 @@
     },
     {
       "traits": ["Evocation", "Magical", "Staff"],
+      "categories": ["Staff"],
       "name": "Staff of Illumination",
       "text": ["This simple iron staff is capped with a faceted, clear gem."],
       "source": "Core Rulebook pg. 594",
@@ -809,6 +848,7 @@
     },
     {
       "traits": ["Rare", "Evocation", "Magical", "Staff"],
+      "categories": ["Staff"],
       "name": "Staff of Power",
       "text": [
         "This staff of magically hardened wood is topped with a silver sculpture depicting magical runic symbols. When used as a weapon, a staff of power is a +2 greater striking staff.",
@@ -833,6 +873,7 @@
     },
     {
       "traits": ["Rare", "Evocation", "Magical", "Staff"],
+      "categories": ["Staff"],
       "name": "Staff of the Magi",
       "text": [
         "Sigils and runes of ancient and powerful magic cover the iron cladding on this long wooden staff. A staff of the magi is a +3 major striking staff, and when wielding it you gain a +1 circumstance bonus to saving throws against spells.",

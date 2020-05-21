@@ -5,6 +5,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=26",
+      "categories": ["Gear"],
       "name": "Holly and Mistletoe",
       "text": "Plants of supernatural significance provide a primal focus for primal spellcasters, such as druids, when using certain abilities and casting some spells. A bundle of holly and mistletoe must be held in one hand to use it. Other primal foci exist for druids focused on other aspects of nature.",
       "source": "Core Rulebook pg. 290",
@@ -15,6 +16,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=7",
+      "categories": ["Gear"],
       "name": "Bedroll",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -26,6 +28,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=10",
+      "categories": ["Gear"],
       "name": "Candle",
       "text": "A lit candle sheds dim light in a 10-foot radius.",
       "source": "Core Rulebook pg. 289",
@@ -37,6 +40,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=12",
+      "categories": ["Gear"],
       "name": "Chalk",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -48,6 +52,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=36",
+      "categories": ["Gear"],
       "name": "Mug",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -59,6 +64,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=38",
+      "categories": ["Gear"],
       "name": "Oil",
       "text": "You can use oil to fuel lanterns, but you can also set a pint of oil aflame and throw it. You must first spend an Interact action preparing the oil, then throw it with another action as a ranged attack. If you hit, it splatters on the creature or in a single 5-foot square you target. You must succeed at a DC 10 flat check for the oil to ignite successfully when it hits. If the oil ignites, the target takes 1d6 fire damage.",
       "source": "Core Rulebook pg. 291",
@@ -70,6 +76,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=39",
+      "categories": ["Gear"],
       "name": "Piton",
       "text": "These small spikes can be used as anchors to make climbing easier. To affix a piton, you must hold it in one hand and use a hammer to drive it in with your other hand. You can attach a rope to the hammered piton so that you don't fall all the way to the ground on a critical failure while Climbing.",
       "source": "Core Rulebook pg. 291",
@@ -81,6 +88,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=45",
+      "categories": ["Gear"],
       "name": "Sack",
       "text": "A sack can hold up to 8 Bulk worth of items. A sack containing 2 Bulk or less can be worn on the body, usually tucked into a belt. You can carry a sack with one hand, but must use two hands to transfer items in and out.",
       "source": "Core Rulebook pg. 291",
@@ -93,6 +101,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=49",
+      "categories": ["Gear"],
       "name": "Sheath",
       "text": "A sheath or scabbard lets you easily carry a weapon on your person.",
       "source": "Core Rulebook pg. 291",
@@ -103,6 +112,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=56",
+      "categories": ["Gear"],
       "name": "Ten-Foot Pole",
       "text": "When wielding this long pole, you can use Seek to search a square up to 10 feet away. The pole is not sturdy enough to use as a weapon.",
       "source": "Core Rulebook pg. 291",
@@ -115,6 +125,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=60",
+      "categories": ["Gear"],
       "name": "Torch",
       "text": "A torch sheds bright light in a 20-foot radius (and dim light to the next 20 feet). It can be used as an improvised weapon that deals 1d4 bludgeoning damage plus 1 fire damage.",
       "source": "Core Rulebook pg. 292",
@@ -127,6 +138,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=52",
+      "categories": ["Gear"],
       "name": "Soap",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -138,6 +150,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=28",
+      "categories": ["Gear"],
       "name": "Ladder",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -150,6 +163,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=8",
+      "categories": ["Gear"],
       "name": "Belt Pouch",
       "text": "A belt pouch holds up to four items of light\u00a0Bulk.",
       "source": "Core Rulebook pg. 289",
@@ -160,6 +174,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=21",
+      "categories": ["Gear"],
       "name": "Flint and Steel",
       "text": "Flint and steel are useful in creating a fire if you have the time to catch a spark, though using them is typically too time-consuming to be practical during an encounter. Even in ideal conditions, using flint and steel to light a flame requires using at least 3 actions, and often significantly longer.",
       "source": "Core Rulebook pg. 290",
@@ -171,6 +186,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=61",
+      "categories": ["Gear"],
       "name": "Vial",
       "text": "A simple glass vial holds up to 1 ounce of liquid.",
       "source": "Core Rulebook pg. 292",
@@ -182,6 +198,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=62",
+      "categories": ["Gear"],
       "name": "Waterskin",
       "text": "When it's full, a waterskin contains roughly 1 day's worth of water for a Small or Medium creature.",
       "source": "Core Rulebook pg. 292",
@@ -194,6 +211,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=50",
+      "categories": ["Gear"],
       "name": "Signal Whistle",
       "text": "When sounded, a signal whistle can be heard clearly up to half a mile away across open terrain.",
       "source": "Core Rulebook pg. 291",
@@ -205,6 +223,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=4",
+      "categories": ["Gear"],
       "name": "Backpack",
       "text": "A backpack holds up to 4 Bulk of items. If you're carrying or stowing the pack rather than wearing it on your back, its bulk is light instead of negligible. The first 2 Bulk of items in your backpack don't count against your Bulk limits",
       "source": "Core Rulebook pg. 289",
@@ -215,6 +234,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=5",
+      "categories": ["Gear"],
       "name": "Bandolier",
       "text": "A bandolier holds up to eight items of light Bulk within easy reach and is usually used for alchemical items or potions. If you are carrying or stowing a bandolier rather than wearing it around your chest, it has light Bulk instead of negligible. A bandolier can be dedicated to a full set of tools, such as healer's tools, allowing you to draw the tools as part of the action that requires them.",
       "source": "Core Rulebook pg. 289",
@@ -225,6 +245,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=6",
+      "categories": ["Gear"],
       "name": "Basic Crafter's Book",
       "text": "This book contains for Crafting common items.",
       "source": "Core Rulebook pg. 289",
@@ -237,6 +258,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=15",
       "source": "Core Rulebook pg. 287",
+      "categories": ["Gear"],
       "name": "Clothing (Ordinary)",
       "price": "1 sp",
       "text": "Ordinary clothing is functional with basic tailoring, such as peasant garb, monk's robes, or work clothes.",
@@ -245,6 +267,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=15",
+      "categories": ["Gear"],
       "name": "Clothing (Explorer's)",
       "source": "Core Rulebook pg. 287",
       "price": "1 sp",
@@ -255,6 +278,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=15",
+      "categories": ["Gear"],
       "name": "Clothing (Fine)",
       "source": "Core Rulebook pg. 287",
       "price": "2 gp",
@@ -265,6 +289,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=15",
+      "categories": ["Gear"],
       "name": "Clothing (High-Fashion Fine)",
       "source": "Core Rulebook pg. 287",
       "level": "3; ",
@@ -276,6 +301,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=15",
+      "categories": ["Gear"],
       "name": "Clothing (Winter)",
       "source": "Core Rulebook pg. 287",
       "price": "4 sp",
@@ -287,6 +313,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=19",
       "source": "Core Rulebook pg. 290",
+      "categories": ["Gear"],
       "name": "Disguise Kit",
       "price": "2 gp",
       "hands": "2; ",
@@ -297,6 +324,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=19",
+      "categories": ["Gear"],
       "name": "Disguise Kit (Replacement Cosmetics)",
       "source": "Core Rulebook pg. 290",
       "price": "2 gp",
@@ -308,6 +336,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=19",
+      "categories": ["Gear"],
       "name": "Disguise Kit (Elite)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -320,6 +349,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=19",
+      "categories": ["Gear"],
       "name": "Disguise Kit (Elite Cosmetics)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -333,6 +363,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=23",
+      "categories": ["Gear"],
       "name": "Grappling Hook",
       "text": "You can throw a grappling hook with a rope tied to it to make a climb easier. To anchor a grappling hook, make an attack roll with the secret trait against a DC depending on the target, typically at least DC 20. On a success, your hook has a firm hold, but on a critical failure, the hook seems like it will hold but actually falls when you're partway up.",
       "source": "Core Rulebook pg. 290",
@@ -345,6 +376,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=24",
+      "categories": ["Gear"],
       "name": "Hammer",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -357,6 +389,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=41",
       "source": "Core Rulebook pg. 291",
+      "categories": ["Gear"],
       "name": "Religious Symbol (Wooden)",
       "price": "1 sp",
       "hands": "1; ",
@@ -367,6 +400,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=41",
+      "categories": ["Gear"],
       "name": "Religious Symbol (Silver)",
       "source": "Core Rulebook pg. 291",
       "price": "2 gp",
@@ -379,6 +413,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=47",
+      "categories": ["Gear"],
       "name": "Satchel",
       "text": "A satchel can hold up to 2 Bulk worth of items. If you are carrying or stowing a satchel rather than wearing it over your shoulder, it counts as light Bulk instead of negligible.",
       "source": "Core Rulebook pg. 291",
@@ -390,6 +425,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=48",
+      "categories": ["Gear"],
       "name": "Scroll Case",
       "text": "Scrolls, maps, and other rolled documents are stored in scroll cases for safe transport.",
       "source": "Core Rulebook pg. 291",
@@ -401,6 +437,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=63",
       "source": "Core Rulebook pg. 292",
+      "categories": ["Gear"],
       "name": "Writing Set",
       "price": "1 gp",
       "hands": "2; ",
@@ -411,6 +448,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=63",
+      "categories": ["Gear"],
       "name": "Writing Set (Extra Ink and Paper)",
       "source": "Core Rulebook pg. 292",
       "price": "1 gp",
@@ -423,6 +461,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=30",
       "source": "Core Rulebook pg. 290",
+      "categories": ["Gear"],
       "name": "Lock (Poor)",
       "price": "2 sp",
       "hands": "2",
@@ -432,6 +471,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=30",
+      "categories": ["Gear"],
       "name": "Lock (Simple)",
       "source": "Core Rulebook pg. 290",
       "level": "1; ",
@@ -443,6 +483,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=30",
+      "categories": ["Gear"],
       "name": "Lock (Average)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -454,6 +495,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=30",
+      "categories": ["Gear"],
       "name": "Lock (Good)",
       "source": "Core Rulebook pg. 290",
       "level": "9; ",
@@ -465,6 +507,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=30",
+      "categories": ["Gear"],
       "name": "Lock (Superior)",
       "source": "Core Rulebook pg. 290",
       "level": "17; ",
@@ -477,6 +520,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=34",
+      "categories": ["Gear"],
       "name": "Merchant's Scale",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -489,6 +533,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=46",
+      "categories": ["Gear"],
       "name": "Saddlebags",
       "text": "Saddlebags come in a pair. Each can hold up to 3 Bulk of items. The Bulk value given is for saddlebags worn by a mount. If you are carrying or stowing saddlebags, they count as 1 Bulk instead of light Bulk.",
       "source": "Core Rulebook pg. 291",
@@ -500,6 +545,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=9",
+      "categories": ["Gear"],
       "name": "Caltrops",
       "text": "These four-pronged metal spikes can cause damage to a creature's feet. You can scatter caltrops in an empty square adjacent to you with an Interact action. The first creature that moves into that square must succeed at a DC 14 Acrobatics check or take 1d4 piercing damage and 1 persistent bleed damage. A creature taking persistent bleed damage from caltrops takes a \u20135-foot penalty to its Speed. Spending an Interact action to pluck the caltrops free reduces the DC to stop the bleeding. Once a creature takes damage from caltrops, enough caltrops are ruined that other creatures moving into the square are safe. Deployed caltrops can be salvaged and reused if no creatures took damage from them. Otherwise, enough caltrops are ruined that they can't be salvaged.",
       "source": "Core Rulebook pg. 289",
@@ -512,6 +558,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=32",
       "source": "Core Rulebook pg. 290",
+      "categories": ["Gear"],
       "name": "Manacles (Poor)",
       "price": "3 sp",
       "hands": "2",
@@ -521,6 +568,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=32",
+      "categories": ["Gear"],
       "name": "Manacles (Simple)",
       "source": "Core Rulebook pg. 290",
       "level": "1; ",
@@ -532,6 +580,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=32",
+      "categories": ["Gear"],
       "name": "Manacles (Average)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -543,6 +592,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=32",
+      "categories": ["Gear"],
       "name": "Manacles (Good)",
       "source": "Core Rulebook pg. 290",
       "level": "9; ",
@@ -554,6 +604,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=32",
+      "categories": ["Gear"],
       "name": "Manacles (Superior)",
       "source": "Core Rulebook pg. 290",
       "level": "17; ",
@@ -566,6 +617,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=58",
       "source": "Core Rulebook pg. 291",
+      "categories": ["Gear"],
       "name": "Thieves' Tools",
       "price": "3 gp",
       "hands": "2; ",
@@ -576,6 +628,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=58",
+      "categories": ["Gear"],
       "name": "Thieves' Tools (Replacement Picks)",
       "source": "Core Rulebook pg. 291",
       "price": "3 gp",
@@ -587,6 +640,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=58",
+      "categories": ["Gear"],
       "name": "Thieves' Tools (Infiltrator)",
       "source": "Core Rulebook pg. 291",
       "level": "3; ",
@@ -599,6 +653,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=58",
+      "categories": ["Gear"],
       "name": "Thieves' Tools (Infiltrator Picks)",
       "source": "Core Rulebook pg. 291",
       "level": "3; ",
@@ -612,6 +667,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=40",
+      "categories": ["Gear"],
       "name": "Rations",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -624,6 +680,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=59",
       "source": "Core Rulebook pg. 292",
+      "categories": ["Gear"],
       "name": "Tool (Long)",
       "price": "1 gp",
       "hands": "2; ",
@@ -634,6 +691,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=59",
+      "categories": ["Gear"],
       "name": "Tool (Short)",
       "source": "Core Rulebook pg. 292",
       "price": "4 sp",
@@ -646,6 +704,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=14",
       "source": "Core Rulebook pg. 287",
+      "categories": ["Gear"],
       "name": "Climbing Kit",
       "price": "5 sp",
       "hands": "2; ",
@@ -656,6 +715,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=14",
+      "categories": ["Gear"],
       "name": "Climbing Kit (Extreme)",
       "source": "Core Rulebook pg. 287",
       "level": "3; ",
@@ -669,6 +729,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=18",
       "source": "Core Rulebook pg. 290",
+      "categories": ["Gear"],
       "name": "Crowbar",
       "price": "5 sp",
       "hands": "2; ",
@@ -679,6 +740,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=18",
+      "categories": ["Gear"],
       "name": "Crowbar (Levered)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -692,6 +754,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=33",
+      "categories": ["Gear"],
       "name": "Material Component Pouch",
       "text": "This pouch contains material components for those spells that require them. Though the components are used up over time, you can refill spent components during your daily preparations.",
       "source": "Core Rulebook pg. 290",
@@ -704,6 +767,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=44",
+      "categories": ["Gear"],
       "name": "Rope",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -716,6 +780,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=13",
+      "categories": ["Gear"],
       "name": "Chest",
       "text": "A wooden chest can hold up to 8 Bulk of items.",
       "source": "Core Rulebook pg. 289",
@@ -728,6 +793,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=1",
+      "categories": ["Gear"],
       "name": "Adventurer's Pack",
       "text": "This item is the starter kit for an adventurer, containing the essential items for exploration and survival. The Bulk value is for the entire pack together, but see the descriptions of individual items as necessary. The pack contains the following items: (containing the other goods)",
       "source": "Core Rulebook pg. 289",
@@ -739,6 +805,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=29",
       "source": "Core Rulebook pg. 290",
+      "categories": ["Gear"],
       "name": "Lantern (Bull's-Eye)",
       "price": "1 gp",
       "hands": "1; ",
@@ -752,6 +819,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=29",
+      "categories": ["Gear"],
       "name": "Lantern (Hooded)",
       "source": "Core Rulebook pg. 290",
       "price": "7 sp",
@@ -764,6 +832,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=20",
       "source": "Core Rulebook pg. 290",
+      "categories": ["Gear"],
       "name": "Fishing Tackle",
       "price": "8 sp",
       "hands": "2; ",
@@ -774,6 +843,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=20",
+      "categories": ["Gear"],
       "name": "Fishing Tackle (Professional)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -787,6 +857,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=37",
       "source": "Core Rulebook pg. 290",
+      "categories": ["Gear"],
       "name": "Musical Instrument (Handheld)",
       "price": "8 sp",
       "hands": "2; ",
@@ -800,6 +871,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=37",
+      "categories": ["Gear"],
       "name": "Musical Instrument (Virtuoso Handheld)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -812,6 +884,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=37",
+      "categories": ["Gear"],
       "name": "Musical Instrument (Heavy)",
       "source": "Core Rulebook pg. 290",
       "price": "2 gp",
@@ -826,6 +899,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=37",
+      "categories": ["Gear"],
       "name": "Musical Instrument (Virtuoso Heavy)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -839,6 +913,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=57",
       "source": "Core Rulebook pg. 288",
+      "categories": ["Gear"],
       "name": "Tent (Pup)",
       "price": "8 sp",
       "hands": "2; ",
@@ -849,6 +924,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=57",
+      "categories": ["Gear"],
       "name": "Tent (Four-Person)",
       "source": "Core Rulebook pg. 288",
       "price": "5 gp",
@@ -860,6 +936,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=57",
+      "categories": ["Gear"],
       "name": "Tent (Pavilion)",
       "source": "Core Rulebook pg. 288",
       "level": "2; ",
@@ -873,6 +950,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=16",
       "source": "Core Rulebook pg. 290",
+      "categories": ["Gear"],
       "name": "Compass",
       "price": "1 gp",
       "hands": "1; ",
@@ -883,6 +961,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=16",
+      "categories": ["Gear"],
       "name": "Compass (Lensatic)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -896,6 +975,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=17",
+      "categories": ["Gear"],
       "name": "Cookware",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -908,6 +988,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=22",
+      "categories": ["Gear"],
       "name": "Formula Book (Blank)",
       "text": "A formula book holds the formulas necessary to make items other than the common equipment from this chapter; alchemists typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.",
       "source": "Core Rulebook pg. 290",
@@ -920,6 +1001,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=35",
+      "categories": ["Gear"],
       "name": "Mirror",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -931,6 +1013,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=42",
+      "categories": ["Gear"],
       "name": "Religious Text",
       "text": "This manuscript contains scripture of a particular religion. Some divine spellcasters, such as clerics, can use a religious text as a divine focus to use certain abilities and cast some spells. A religious text must be held in one hand to use it.",
       "source": "Core Rulebook pg. 291",
@@ -943,6 +1026,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=53",
+      "categories": ["Gear"],
       "name": "Spellbook (Blank)",
       "text": "A spellbook holds the written knowledge necessary to learn and prepare various spells, a necessity for wizards (who typically get one for free) and a useful luxury for other spellcasters looking to learn additional spells. Each spellbook can hold up to 100 spells. The Price listed is for a blank spellbook.",
       "source": "Core Rulebook pg. 291",
@@ -955,6 +1039,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=514",
+      "categories": ["Gear"],
       "name": "Armored Skirt",
       "text": "These armor-plated skirts, which are also known as armored kilts, are favored by Knights of Lastwall for their versatility and aesthetic appeal. An armored skirt can be donned with 2 Interact actions when it's worn with light or medium armor, or as part of donning heavy armor. When worn with a breastplate, chain shirt, chain mail, or scale mail, an armored skirt increases the armor's item bonus to AC by 1, worsens the armor's check penalty by 1, reduces the armor's Dex cap by 1, increases the Strength score required to ignore the check penalty and reduce the Speed penalty by 2, and adds the noisy trait. This also makes the armor one step heavier (from light to medium, or medium to heavy), and you use the proficiency bonus appropriate to this adjusted armor type. Alternatively, when wearing an armored skirt to replace appropriate portions of a set of half plate or full plate, reduce the armor's item bonus to AC by 1, lessen the check penalty by 1, decrease the Strength score required to ignore the check penalty and reduce the Speed penalty by 2, increase the armor's Dex cap by 1, and add the noisy trait to the armor. An armored skirt grants no benefit when worn by itself or with armors other than those listed here.",
       "source": "Lost Omens Character Guide pg. 91",
@@ -966,6 +1051,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=495",
+      "categories": ["Gear"],
       "name": "Jellyfish Lamp",
       "text": "These bioluminescent jellyfish are as bright\r\nas candles, come in a variety of colors, and\r\ncan act as living lanterns. They dry up and\r\ndie if removed from the water for more than\r\n1 hour, but as long as they're allowed access\r\nto seawater, they can usually survive for\r\nup to 1 year by feeding on micronutrients.\r\nRarely, a well-treated jellyfish lamp might\r\nlive longer and potentially develop stronger\r\nlight or additional abilities.",
       "source": "Lost Omens World Guide pg. 68",
@@ -978,6 +1064,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=43",
       "source": "Core Rulebook pg. 291",
+      "categories": ["Gear"],
       "name": "Repair Kit",
       "price": "2 gp",
       "hands": "2; ",
@@ -988,6 +1075,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=43",
+      "categories": ["Gear"],
       "name": "Repair Kit (Superb)",
       "source": "Core Rulebook pg. 291",
       "level": "3; ",
@@ -1001,6 +1089,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=2",
+      "categories": ["Gear"],
       "name": "Alchemist's Tools",
       "text": "This mobile collection of vials and chemicals can be used for simple alchemical tasks.",
       "source": "Core Rulebook pg. 289",
@@ -1013,6 +1102,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=27",
+      "categories": ["Gear"],
       "name": "Hourglass",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -1025,6 +1115,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=3",
       "source": "Core Rulebook pg. 287",
+      "categories": ["Gear"],
       "name": "Artisan's Tools",
       "price": "4 gp",
       "hands": "2; ",
@@ -1035,6 +1126,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=3",
+      "categories": ["Gear"],
       "name": "Artisan's Tools (Sterling)",
       "source": "Core Rulebook pg. 287",
       "level": "3; ",
@@ -1048,6 +1140,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=11",
+      "categories": ["Gear"],
       "name": "Chain",
       "text": "",
       "source": "Core Rulebook pg. 288",
@@ -1060,6 +1153,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=55",
+      "categories": ["Gear"],
       "name": "Tack",
       "text": "Tack includes all the gear required to outfit a riding animal, including a saddle, bit and bridle, and stirrups if necessary. Especially large or oddly shaped animals might require specialty saddles. These can be more expensive or hard to find, as determined by the GM. The Bulk value given is for tack worn by a creature. If carried, the Bulk increases to 2.",
       "source": "Core Rulebook pg. 291",
@@ -1071,6 +1165,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=543",
       "source": "Core Rulebook pg. 287",
+      "categories": ["Gear"],
       "name": "Alchemist's Lab",
       "price": "5 gp",
       "hands": "2; ",
@@ -1081,6 +1176,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=543",
+      "categories": ["Gear"],
       "name": "Alchemist's Lab (Expanded)",
       "source": "Core Rulebook pg. 287",
       "level": "3; ",
@@ -1094,6 +1190,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=25",
       "source": "Core Rulebook pg. 290",
+      "categories": ["Gear"],
       "name": "Healer's Tools",
       "price": "5 gp",
       "hands": "2; ",
@@ -1104,6 +1201,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=25",
+      "categories": ["Gear"],
       "name": "Healer's Tools (Expanded)",
       "source": "Core Rulebook pg. 290",
       "level": "3; ",
@@ -1117,6 +1215,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=51",
       "source": "Core Rulebook pg. 291",
+      "categories": ["Gear"],
       "name": "Snare Kit",
       "price": "5 gp",
       "hands": "2; ",
@@ -1127,6 +1226,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=51",
+      "categories": ["Gear"],
       "name": "Snare Kit (Specialist)",
       "source": "Core Rulebook pg. 291",
       "level": "3; ",
@@ -1140,6 +1240,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=496",
+      "categories": ["Gear"],
       "name": "Swim Fins",
       "text": "These flippers attach to your feet like tight\r\nshoes\u2014donning or removing them requires\r\nthree Interact actions. While worn, you\r\ngain a +5-foot item bonus to the distance\r\nyou move when rolling Athletics to Swim,\r\nnot when using a swim Speed, and you take\r\na \u201310-foot item penalty to your Speed.",
       "source": "Lost Omens World Guide pg. 69",
@@ -1152,6 +1253,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=54",
       "source": "Core Rulebook pg. 291",
+      "categories": ["Gear"],
       "name": "Spyglass",
       "price": "20 gp",
       "hands": "2; ",
@@ -1162,6 +1264,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=54",
+      "categories": ["Gear"],
       "name": "Spyglass (Fine)",
       "source": "Core Rulebook pg. 291",
       "level": "4; ",
@@ -1175,6 +1278,7 @@
     {
       "traits": [],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=31",
+      "categories": ["Gear"],
       "name": "Magnifying Glass",
       "text": "This quality handheld lens gives you a +1 item bonus to Perception checks to notice minute details of documents, fabric, and the like.",
       "source": "Core Rulebook pg. 290",
@@ -1186,6 +1290,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=64",
       "source": "Core Rulebook pg. 291",
+      "categories": ["Gear"],
       "name": "Scholarly Journal",
       "level": "3; ",
       "price": "6 gp",
@@ -1197,6 +1302,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=64",
+      "categories": ["Gear"],
       "name": "Scholarly Journal (Compendium)",
       "source": "Core Rulebook pg. 291",
       "level": "3; ",
@@ -1209,6 +1315,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=64",
+      "categories": ["Gear"],
       "name": "Pathfinder Chronicle",
       "source": "Lost Omens Character Guide pg. 110",
       "level": "3; ",
@@ -1223,6 +1330,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=65",
       "source": "Core Rulebook pg. 291",
+      "categories": ["Gear"],
       "name": "Survey Map",
       "level": "3; ",
       "price": "10 gp",
@@ -1234,6 +1342,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=65",
+      "categories": ["Gear"],
       "name": "Survey Map (Atlas)",
       "source": "Core Rulebook pg. 291",
       "level": "3; ",
@@ -1247,6 +1356,7 @@
     {
       "traits": ["Uncommon", "Conjuration", "Magical"],
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=506",
+      "categories": ["Gear"],
       "name": "Bountiful Cauldron",
       "text": "This mid-sized, silver cauldron is a boon within areas where access to fresh food is limited, for it can be commanded to fill itself with hearty (and delicious) vegetable stew. It can also be put to a much greater use in the pursuit of crafting certain items. When used to Craft alchemical items, potions, or oils, a bountiful cauldron grants a +2 item bonus to the Crafting check. spell, filling itself with enough delicious vegetable stew to feed 12 Medium creatures.",
       "source": "Pathfinder #147: Tomorrow Must Burn pg. 71",

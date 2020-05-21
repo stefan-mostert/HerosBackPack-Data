@@ -5,6 +5,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=327",
       "source": "Core Rulebook pg. 588",
+      "categories": ["Shield"],
       "name": "Sturdy Shield (Minor)",
       "level": 4,
       "price": "100 gp",
@@ -17,6 +18,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=327",
+      "categories": ["Shield"],
       "name": "Sturdy Shield (Lesser)",
       "source": "Core Rulebook pg. 588",
       "level": 7,
@@ -30,6 +32,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=327",
+      "categories": ["Shield"],
       "name": "Sturdy Shield (Moderate)",
       "source": "Core Rulebook pg. 588",
       "level": 10,
@@ -43,6 +46,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=327",
+      "categories": ["Shield"],
       "name": "Sturdy Shield (Greater)",
       "source": "Core Rulebook pg. 588",
       "level": 13,
@@ -56,6 +60,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=327",
+      "categories": ["Shield"],
       "name": "Sturdy Shield (Major)",
       "source": "Core Rulebook pg. 588",
       "level": 16,
@@ -69,6 +74,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=327",
+      "categories": ["Shield"],
       "name": "Sturdy Shield (Supreme)",
       "source": "Core Rulebook pg. 588",
       "level": 19,
@@ -82,6 +88,7 @@
     },
     {
       "traits": ["Conjuration", "Magical"],
+      "categories": ["Shield"],
       "name": "Lion's Shield",
       "level": 6,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=323",
@@ -98,6 +105,7 @@
     },
     {
       "traits": ["Abjuration", "Magical"],
+      "categories": ["Shield"],
       "name": "Spellguard Shield",
       "level": 6,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=325",
@@ -110,6 +118,7 @@
     },
     {
       "traits": ["Evocation", "Magical"],
+      "categories": ["Shield"],
       "name": "Spined Shield",
       "level": 7,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=326",
@@ -125,6 +134,7 @@
     },
     {
       "traits": ["Uncommon", "Evocation", "Force", "Magical"],
+      "categories": ["Shield"],
       "name": "Force Shield",
       "level": 9,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=320",
@@ -141,6 +151,7 @@
     },
     {
       "traits": ["Uncommon", "Abjuration", "Magical"],
+      "categories": ["Shield"],
       "name": "Dragonslayer's Shield",
       "level": 9,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=318",
@@ -153,6 +164,7 @@
     },
     {
       "traits": ["Uncommon", "Abjuration", "Magical"],
+      "categories": ["Shield"],
       "name": "Forge Warden",
       "level": 10,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=321",
@@ -174,6 +186,7 @@
       "activate": "Interact;",
       "frequency": "once per day;",
       "effect": "The shield magically releases itself and floats off your arm into the air next to you, granting you its bonus automatically, as if you had Raised the Shield. Because you're not wielding the shield, you can't use reactions such as Shield Block with the shield, but you gain its benefits even when using both of your hands. After 1 minute, the shield drops to the ground, ending its floating effect. While the shield is adjacent to you, you can Interact to grasp it, ending its floating effect early.",
+      "categories": ["Shield"],
       "name": "Floating Shield",
       "level": 11,
       "price": "1,250 gp",
@@ -185,6 +198,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=319",
+      "categories": ["Shield"],
       "name": "Floating Shield (Greater)",
       "source": "Core Rulebook pg. 587",
       "level": 16,
@@ -199,6 +213,7 @@
     },
     {
       "traits": ["Abjuration", "Magical"],
+      "categories": ["Shield"],
       "name": "Arrow-Catching Shield",
       "level": 11,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=317",
@@ -215,6 +230,7 @@
     },
     {
       "traits": ["Rare", "Abjuration", "Magical"],
+      "categories": ["Shield"],
       "name": "Reforging Shield",
       "level": 15,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=542",
@@ -227,6 +243,7 @@
     },
     {
       "traits": ["Uncommon", "Abjuration", "Evocation", "Magical"],
+      "categories": ["Shield"],
       "name": "Nethysian Bulwark",
       "level": 16,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=546",
@@ -243,6 +260,7 @@
     },
     {
       "traits": ["Uncommon", "Abjuration", "Magical"],
+      "categories": ["Shield"],
       "name": "Reflecting Shield",
       "level": 18,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=324",
@@ -262,6 +280,7 @@
     },
     {
       "traits": ["Rare", "Abjuration", "Magical"],
+      "categories": ["Shield"],
       "name": "Indestructible Shield",
       "level": 18,
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=322",

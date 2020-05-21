@@ -3,6 +3,7 @@
   "ignoreItemCategory": true,
   "items": [
     {
+      "categories": ["Talisman"],
       "name": "Everburning Torch",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=255",
       "category": "held item",
@@ -18,6 +19,7 @@
       "Usage": "held in 1 hand; "
     },
     {
+      "categories": ["Talisman"],
       "name": "Pathfinder's Coin",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=523",
       "category": "held item",
@@ -39,6 +41,7 @@
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=270",
       "source": "Core Rulebook pg. 576",
       "actions": "Two Actions",
+      "categories": ["Talisman"],
       "name": "Wondrous Figurine (Golden Lions)",
       "level": 10,
       "price": "900 gp",
@@ -56,6 +59,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=270",
+      "categories": ["Talisman"],
       "name": "Wondrous Figurine (Jade Serpent)",
       "source": "Core Rulebook pg. 576",
       "level": 7,
@@ -75,6 +79,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=270",
+      "categories": ["Talisman"],
       "name": "Wondrous Figurine (Marble Elephant)",
       "source": "Core Rulebook pg. 576",
       "level": 13,
@@ -94,6 +99,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=270",
+      "categories": ["Talisman"],
       "name": "Wondrous Figurine (Obsidian Steed)",
       "source": "Core Rulebook pg. 576",
       "level": 15,
@@ -115,6 +121,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=270",
+      "categories": ["Talisman"],
       "name": "Wondrous Figurine (Onyx Dog)",
       "source": "Core Rulebook pg. 576",
       "level": 2,
@@ -136,6 +143,7 @@
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=267",
       "source": "Core Rulebook pg. 575",
       "actions": "Two Actions",
+      "categories": ["Talisman"],
       "name": "Thurible of Revelation (Lesser)",
       "level": 3,
       "price": "55 gp",
@@ -153,6 +161,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=267",
+      "categories": ["Talisman"],
       "name": "Thurible of Revelation (Moderate)",
       "source": "Core Rulebook pg. 575",
       "level": 10,
@@ -174,6 +183,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=267",
+      "categories": ["Talisman"],
       "name": "Thurible of Revelation (Greater)",
       "source": "Core Rulebook pg. 575",
       "level": 18,
@@ -197,6 +207,7 @@
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=260",
       "source": "Core Rulebook pg. 574",
       "actions": "Two Actions",
+      "categories": ["Talisman"],
       "name": "Maestro's Instrument (Lesser)",
       "level": 3,
       "price": "60 gp",
@@ -216,6 +227,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=260",
+      "categories": ["Talisman"],
       "name": "Maestro's Instrument (Moderate)",
       "source": "Core Rulebook pg. 574",
       "level": 10,
@@ -239,6 +251,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=260",
+      "categories": ["Talisman"],
       "name": "Maestro's Instrument (Greater",
       "source": "Core Rulebook pg. 574",
       "level": 18,
@@ -263,6 +276,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=249",
       "source": "Core Rulebook pg. 572",
+      "categories": ["Talisman"],
       "name": "Bag of Holding (Type I)",
       "level": 4,
       "price": "75 gp",
@@ -282,6 +296,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=249",
+      "categories": ["Talisman"],
       "name": "Bag of Holding (Type II)",
       "source": "Core Rulebook pg. 572",
       "level": 7,
@@ -302,6 +317,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=249",
+      "categories": ["Talisman"],
       "name": "Bag of Holding (Type III)",
       "source": "Core Rulebook pg. 572",
       "level": 11,
@@ -322,6 +338,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=249",
+      "categories": ["Talisman"],
       "name": "Bag of Holding (Type IV)",
       "source": "Core Rulebook pg. 572",
       "level": 13,
@@ -344,6 +361,7 @@
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=266",
       "source": "Core Rulebook pg. 575",
       "actions": "Free Action",
+      "categories": ["Talisman"],
       "name": "Skeleton Key",
       "level": 5,
       "price": "125 gp",
@@ -363,6 +381,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=266",
+      "categories": ["Talisman"],
       "name": "Skeleton Key (Greater)",
       "source": "Core Rulebook pg. 575",
       "level": 11,
@@ -384,6 +403,7 @@
       "category": "held item"
     },
     {
+      "categories": ["Talisman"],
       "name": "Holy Prayer Beads",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=256",
       "category": "held item",
@@ -406,6 +426,7 @@
       "price": ", "
     },
     {
+      "categories": ["Talisman"],
       "name": "Traveler's Any-Tool",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=268",
       "category": "held item",
@@ -422,6 +443,7 @@
       "Effect": "You imagine a specific simple tool, and the any-tool transforms into it. (Usually, you can choose from a tool listed in Chapter 6). This transforms the wooden portion into any haft and the metal caps into spades, hammer heads, or the like, allowing for most basic tools but nothing more complex. You can return the item to its rod form with an Interact action."
     },
     {
+      "categories": ["Talisman"],
       "name": "Insistent Door Knocker",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=511",
       "category": "held item",
@@ -442,6 +464,7 @@
       "bulk": "1"
     },
     {
+      "categories": ["Talisman"],
       "name": "Horn of Fog",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=258",
       "category": "held item",
@@ -463,6 +486,7 @@
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=263",
       "source": "Core Rulebook pg. 574",
       "actions": "Two Actions",
+      "categories": ["Talisman"],
       "name": "Primeval Mistletoe",
       "level": 6,
       "price": "230 gp",
@@ -480,6 +504,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=263",
+      "categories": ["Talisman"],
       "name": "Primeval Mistletoe (Greater)",
       "source": "Core Rulebook pg. 574",
       "level": 14,
@@ -503,6 +528,7 @@
       "category": "held item"
     },
     {
+      "categories": ["Talisman"],
       "name": "Chime of Opening",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=252",
       "category": "held item",
@@ -519,6 +545,7 @@
       "Effect": "You aim the chime at a container, door, or lock you want to open and strike the chime. The chime sends out magical vibrations that attempt a Thievery check against the lock's DC, with a Thievery bonus of +13. This targets only one lock or binding at a time, so you might need to activate the chime multiple times to open a target with several forms of protection."
     },
     {
+      "categories": ["Talisman"],
       "name": "Bottled Air",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=250",
       "category": "held item",
@@ -535,6 +562,7 @@
       "Effect": "You draw a breath of air from the bottle. This allows you to breathe even in an airless or toxic environment. Air doesn't escape the mouth of the bottle, so leaving the open bottle in an airless environment doesn't change the environment."
     },
     {
+      "categories": ["Talisman"],
       "name": "Decanter of Endless Water",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=254",
       "category": "held item",
@@ -552,6 +580,7 @@
       "Effect": "Speaking \u201cgeyser,\u201d you cause a powerful deluge of water to erupt at a rate of 15 gallons per round. You can direct the stream at a creature, subjecting it to the effects of "
     },
     {
+      "categories": ["Talisman"],
       "name": "Dragon's Eye Charm",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=502",
       "category": "held item",
@@ -575,6 +604,7 @@
       "Effect": "You can speak and understand "
     },
     {
+      "categories": ["Talisman"],
       "name": "Rod of Wonder",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=265",
       "category": "held item",
@@ -591,6 +621,7 @@
       "Effect": "Once activated, the rod can't be activated again for 1d4 hours."
     },
     {
+      "categories": ["Talisman"],
       "name": "Cursed Dreamstone",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=507",
       "category": "held item",
@@ -636,6 +667,7 @@
       "Critical Failure": "As failure, and whenever the bearer attempts a saving throw against a sleep effect, they get the outcome that is one degree worse than the result of their saving throw."
     },
     {
+      "categories": ["Talisman"],
       "name": "Immovable Rod",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=259",
       "category": "held item",
@@ -652,6 +684,7 @@
       "Effect": "You push the button to anchor the rod in place. It doesn't move, defying gravity if need be. If the button is pushed again, the rod deactivates, ending the anchoring magic. While anchored, the rod can be moved only if 8,000 pounds of pressure are applied to it or if a creature uses Athletics to Force Open the rod with a DC of 40 (though most intelligent creatures can just push the button to release the rod)."
     },
     {
+      "categories": ["Talisman"],
       "name": "Triton's Conch",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=269",
       "category": "held item",
@@ -668,6 +701,7 @@
       "Effect": "You can raise the conch to your lips and blow into it, letting out a long, rumbling note. For the next minute, you and all allies who were within 30 feet of you when you activated the conch gain a +2 item bonus to Athletics checks to Swim and can breathe under water."
     },
     {
+      "categories": ["Talisman"],
       "name": "Dreamstone",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=507",
       "category": "held item",
@@ -713,6 +747,7 @@
       "Critical Failure": "As failure, and whenever the bearer attempts a saving throw against a sleep effect, they get the outcome that is one degree worse than the result of their saving throw."
     },
     {
+      "categories": ["Talisman"],
       "name": "Horn of Blasting",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=257",
       "category": "held item",
@@ -735,6 +770,7 @@
       "Failure": "The creature takes full damage and is deafened for 2d6 rounds."
     },
     {
+      "categories": ["Talisman"],
       "name": "Greater Insistent Door Knocker",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=511",
       "category": "held item",
@@ -757,6 +793,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=256",
       "source": "Core Rulebook pg. 573",
+      "categories": ["Talisman"],
       "name": "Holy Prayer Beads (Greater)",
       "level": "5; ",
       "price": "160 gp",
@@ -775,6 +812,7 @@
       "category": "held item"
     },
     {
+      "categories": ["Talisman"],
       "name": "Lich Phylactery",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=488",
       "category": "held item",
@@ -792,6 +830,7 @@
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=261",
       "source": "Core Rulebook pg. 574",
       "actions": "Single Action",
+      "categories": ["Talisman"],
       "name": "Marvelous Medicines",
       "level": 12,
       "price": "1,800 gp",
@@ -810,6 +849,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=261",
+      "categories": ["Talisman"],
       "name": "Marvelous Medicines (Greater)",
       "source": "Core Rulebook pg. 574",
       "level": 18,
@@ -830,6 +870,7 @@
       "category": "held item"
     },
     {
+      "categories": ["Talisman"],
       "name": "Broom of Flying",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=251",
       "category": "held item",
@@ -848,6 +889,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=253",
       "source": "Core Rulebook pg. 572",
+      "categories": ["Talisman"],
       "name": "Crystal Ball (Clear Quartz)",
       "level": 14,
       "price": "3,800 gp",
@@ -872,6 +914,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=253",
+      "categories": ["Talisman"],
       "name": "Crystal Ball (Selenite)",
       "source": "Core Rulebook pg. 572",
       "level": 15,
@@ -899,6 +942,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=253",
+      "categories": ["Talisman"],
       "name": "Crystal Ball (Moonstone)",
       "source": "Core Rulebook pg. 572",
       "level": 16,
@@ -926,6 +970,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=253",
+      "categories": ["Talisman"],
       "name": "Crystal Ball (Peridot)",
       "source": "Core Rulebook pg. 572",
       "level": 17,
@@ -953,6 +998,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=253",
+      "categories": ["Talisman"],
       "name": "Crystal Ball (Obsidian)",
       "source": "Core Rulebook pg. 572",
       "level": 19,
@@ -979,6 +1025,7 @@
       "category": "held item"
     },
     {
+      "categories": ["Talisman"],
       "name": "Rod of Negation",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=264",
       "category": "held item",
@@ -996,6 +1043,7 @@
       "Effect": "This rod emits a thin, gray beam that negates a spell or magic item, casting a 6th-level "
     },
     {
+      "categories": ["Talisman"],
       "name": "Demilich Eye Gem",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=489",
       "category": "held item",
@@ -1014,6 +1062,7 @@
       "Craft Requirements": "can't be crafted."
     },
     {
+      "categories": ["Talisman"],
       "name": "Guiding Chisel",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=541",
       "category": "held item",
@@ -1036,6 +1085,7 @@
       "Usage": "held in 1 hand; "
     },
     {
+      "categories": ["Talisman"],
       "name": "Major Insistent Door Knocker",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=511",
       "category": "held item",
@@ -1056,6 +1106,7 @@
       "bulk": "1"
     },
     {
+      "categories": ["Talisman"],
       "name": "Possibility Tome",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=262",
       "category": "held item",

@@ -4,6 +4,7 @@
   "items": [
     {
       "source": "Core Rulebook pg. 546",
+      "categories": ["Elixir"],
       "name": "Antidote (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=80",
       "level": 1,
@@ -16,6 +17,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Antidote (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=80",
       "source": "Core Rulebook pg. 546",
@@ -29,6 +31,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Antidote (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=80",
       "source": "Core Rulebook pg. 546",
@@ -42,6 +45,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Antidote (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=80",
       "source": "Core Rulebook pg. 546",
@@ -56,6 +60,7 @@
     },
     {
       "source": "Core Rulebook pg. 546",
+      "categories": ["Elixir"],
       "name": "Antiplague (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=81",
       "level": 1,
@@ -68,6 +73,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Antiplague (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=81",
       "source": "Core Rulebook pg. 546",
@@ -81,6 +87,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Antiplague (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=81",
       "source": "Core Rulebook pg. 546",
@@ -94,6 +101,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Antiplague (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=81",
       "source": "Core Rulebook pg. 546",
@@ -108,6 +116,7 @@
     },
     {
       "source": "Core Rulebook pg. 547",
+      "categories": ["Elixir"],
       "name": "Cheetah's Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=86",
       "level": 1,
@@ -120,6 +129,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Cheetah's Elixir (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=86",
       "source": "Core Rulebook pg. 547",
@@ -133,6 +143,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Cheetah's Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=86",
       "source": "Core Rulebook pg. 547",
@@ -147,6 +158,7 @@
     },
     {
       "source": "Core Rulebook pg. 548",
+      "categories": ["Elixir"],
       "name": "Elixir of Life (Minor)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=91",
       "level": 1,
@@ -159,6 +171,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Elixir of Life (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=91",
       "source": "Core Rulebook pg. 548",
@@ -172,6 +185,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Elixir of Life (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=91",
       "source": "Core Rulebook pg. 548",
@@ -185,6 +199,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Elixir of Life (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=91",
       "source": "Core Rulebook pg. 548",
@@ -198,6 +213,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Elixir of Life (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=91",
       "source": "Core Rulebook pg. 548",
@@ -211,6 +227,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Elixir of Life (True)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=91",
       "source": "Core Rulebook pg. 548",
@@ -230,6 +247,7 @@
       "usage": "held in 2 hands;",
       "bulk": "L",
       "activate": "1 minute (Interact)",
+      "categories": ["Elixir"],
       "name": "Lastwall Soup",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=516",
       "level": 1,
@@ -237,6 +255,7 @@
     },
     {
       "source": "Core Rulebook pg. 549",
+      "categories": ["Elixir"],
       "name": "Leaper's Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=95",
       "level": 1,
@@ -249,6 +268,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Leaper's Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=95",
       "source": "Core Rulebook pg. 549",
@@ -263,6 +283,7 @@
     },
     {
       "source": "Core Rulebook pg. 546",
+      "categories": ["Elixir"],
       "name": "Bestial Mutagen (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=82",
       "level": 1,
@@ -277,6 +298,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Bestial Mutagen (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=82",
       "source": "Core Rulebook pg. 546",
@@ -292,6 +314,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Bestial Mutagen (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=82",
       "source": "Core Rulebook pg. 546",
@@ -307,6 +330,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Bestial Mutagen (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=82",
       "source": "Core Rulebook pg. 546",
@@ -323,6 +347,7 @@
     },
     {
       "source": "Core Rulebook pg. 547",
+      "categories": ["Elixir"],
       "name": "Cognitive Mutagen (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=87",
       "level": 1,
@@ -337,6 +362,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Cognitive Mutagen (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=87",
       "source": "Core Rulebook pg. 547",
@@ -352,6 +378,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Cognitive Mutagen (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=87",
       "source": "Core Rulebook pg. 547",
@@ -367,6 +394,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Cognitive Mutagen (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=87",
       "source": "Core Rulebook pg. 547",
@@ -383,6 +411,7 @@
     },
     {
       "source": "Core Rulebook pg. 548",
+      "categories": ["Elixir"],
       "name": "Eagle Eye Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=90",
       "level": 1,
@@ -395,6 +424,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Eagle Eye Elixir (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=90",
       "source": "Core Rulebook pg. 548",
@@ -408,6 +438,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Eagle Eye Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=90",
       "source": "Core Rulebook pg. 548",
@@ -421,6 +452,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Eagle Eye Elixir (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=90",
       "source": "Core Rulebook pg. 548",
@@ -435,6 +467,7 @@
     },
     {
       "source": "The Fall of Plaguestone pg. 56",
+      "categories": ["Elixir"],
       "name": "Energy Mutagen (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=474",
       "level": 1,
@@ -456,6 +489,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Energy Mutagen (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=474",
       "source": "The Fall of Plaguestone pg. 56",
@@ -478,6 +512,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Energy Mutagen (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=474",
       "source": "The Fall of Plaguestone pg. 56",
@@ -500,6 +535,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Energy Mutagen (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=474",
       "source": "The Fall of Plaguestone pg. 56",
@@ -523,6 +559,7 @@
     },
     {
       "source": "Core Rulebook pg. 548",
+      "categories": ["Elixir"],
       "name": "Juggernaut Mutagen (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=94",
       "level": 1,
@@ -537,6 +574,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Juggernaut Mutagen (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=94",
       "source": "Core Rulebook pg. 548",
@@ -552,6 +590,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Juggernaut Mutagen (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=94",
       "source": "Core Rulebook pg. 548",
@@ -567,6 +606,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Juggernaut Mutagen (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=94",
       "source": "Core Rulebook pg. 548",
@@ -583,6 +623,7 @@
     },
     {
       "source": "Core Rulebook pg. 549",
+      "categories": ["Elixir"],
       "name": "Quicksilver Mutagen (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=97",
       "level": 1,
@@ -597,6 +638,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Quicksilver Mutagen (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=97",
       "source": "Core Rulebook pg. 549",
@@ -612,6 +654,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Quicksilver Mutagen (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=97",
       "source": "Core Rulebook pg. 549",
@@ -627,6 +670,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Quicksilver Mutagen (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=97",
       "source": "Core Rulebook pg. 549",
@@ -643,6 +687,7 @@
     },
     {
       "source": "Core Rulebook pg. 549",
+      "categories": ["Elixir"],
       "name": "Serene Mutagen (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=100",
       "level": 1,
@@ -657,6 +702,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Serene Mutagen (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=100",
       "source": "Core Rulebook pg. 549",
@@ -672,6 +718,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Serene Mutagen (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=100",
       "source": "Core Rulebook pg. 549",
@@ -687,6 +734,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Serene Mutagen (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=100",
       "source": "Core Rulebook pg. 549",
@@ -703,6 +751,7 @@
     },
     {
       "source": "Core Rulebook pg. 550",
+      "categories": ["Elixir"],
       "name": "Silvertongue Mutagen (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=101",
       "level": 1,
@@ -717,6 +766,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Silvertongue Mutagen (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=101",
       "source": "Core Rulebook pg. 550",
@@ -732,6 +782,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Silvertongue Mutagen (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=101",
       "source": "Core Rulebook pg. 550",
@@ -747,6 +798,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Silvertongue Mutagen (Major)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=101",
       "source": "Core Rulebook pg. 550",
@@ -763,6 +815,7 @@
     },
     {
       "source": "Core Rulebook pg. 547",
+      "categories": ["Elixir"],
       "name": "Darkvision Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=89",
       "level": 2,
@@ -775,6 +828,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Darkvision Elixir (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=89",
       "source": "Core Rulebook pg. 547",
@@ -788,6 +842,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Darkvision Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=89",
       "source": "Core Rulebook pg. 547",
@@ -808,6 +863,7 @@
       "bulk": "L",
       "actions": "Single Action",
       "activate": "Interact",
+      "categories": ["Elixir"],
       "name": "Infiltrator's Elixir",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=93",
       "level": 2,
@@ -815,6 +871,7 @@
     },
     {
       "source": "Core Rulebook pg. 547",
+      "categories": ["Elixir"],
       "name": "Bravo's Brew (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=84",
       "level": 2,
@@ -827,6 +884,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Bravo's Brew (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=84",
       "source": "Core Rulebook pg. 547",
@@ -840,6 +898,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Bravo's Brew (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=84",
       "source": "Core Rulebook pg. 547",
@@ -860,6 +919,7 @@
       "bulk": "L",
       "actions": "Single Action",
       "activate": "Interact",
+      "categories": ["Elixir"],
       "name": "Cat's Eye Elixir",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=85",
       "level": 2,
@@ -867,6 +927,7 @@
     },
     {
       "source": "Core Rulebook pg. 547",
+      "categories": ["Elixir"],
       "name": "Comprehension Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=88",
       "level": 2,
@@ -879,6 +940,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Comprehension Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=88",
       "source": "Core Rulebook pg. 547",
@@ -899,6 +961,7 @@
       "bulk": "L",
       "actions": "Single Action",
       "activate": "Interact",
+      "categories": ["Elixir"],
       "name": "Stone Fist Elixir",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=102",
       "level": 4,
@@ -906,6 +969,7 @@
     },
     {
       "source": "Core Rulebook pg. 547",
+      "categories": ["Elixir"],
       "name": "Bomber's Eye Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=83",
       "level": 4,
@@ -918,6 +982,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Bomber's Eye Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=83",
       "source": "Core Rulebook pg. 547",
@@ -932,6 +997,7 @@
     },
     {
       "source": "Core Rulebook pg. 549",
+      "categories": ["Elixir"],
       "name": "Salamander Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=98",
       "level": 4,
@@ -944,6 +1010,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Salamander Elixir (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=98",
       "source": "Core Rulebook pg. 549",
@@ -957,6 +1024,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Salamander Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=98",
       "source": "Core Rulebook pg. 549",
@@ -971,6 +1039,7 @@
     },
     {
       "source": "Core Rulebook pg. 550",
+      "categories": ["Elixir"],
       "name": "Winter Wolf Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=103",
       "level": 4,
@@ -983,6 +1052,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Winter Wolf Elixir (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=103",
       "source": "Core Rulebook pg. 550",
@@ -996,6 +1066,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Winter Wolf Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=103",
       "source": "Core Rulebook pg. 550",
@@ -1010,6 +1081,7 @@
     },
     {
       "source": "Core Rulebook pg. 549",
+      "categories": ["Elixir"],
       "name": "Mistform Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=96",
       "level": 4,
@@ -1022,6 +1094,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Mistform Elixir (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=96",
       "source": "Core Rulebook pg. 549",
@@ -1035,6 +1108,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Mistform Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=96",
       "source": "Core Rulebook pg. 549",
@@ -1049,6 +1123,7 @@
     },
     {
       "source": "Core Rulebook pg. 549",
+      "categories": ["Elixir"],
       "name": "Sea Touch Elixir (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=99",
       "level": 5,
@@ -1061,6 +1136,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Sea Touch Elixir (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=99",
       "source": "Core Rulebook pg. 549",
@@ -1074,6 +1150,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Sea Touch Elixir (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=99",
       "source": "Core Rulebook pg. 549",
@@ -1088,6 +1165,7 @@
     },
     {
       "source": "The Fall of Plaguestone pg. 56",
+      "categories": ["Elixir"],
       "name": "Stone Body Mutagen (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=475",
       "level": 5,
@@ -1109,6 +1187,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Stone Body Mutagen (Moderate)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=475",
       "source": "The Fall of Plaguestone pg. 56",
@@ -1131,6 +1210,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Elixir"],
       "name": "Stone Body Mutagen (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=475",
       "source": "The Fall of Plaguestone pg. 56",
@@ -1160,6 +1240,7 @@
       "actions": "Single Action",
       "activate": "Interact",
       "craftrequirements": ",",
+      "categories": ["Elixir"],
       "name": "Elixir of Rejuvenation",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=92",
       "level": 20,
@@ -1172,6 +1253,7 @@
       "bulk": "L",
       "actions": "Single Action",
       "activate": "Interact",
+      "categories": ["Elixir"],
       "name": "Sun Orchid Elixir",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=497",
       "level": 20,

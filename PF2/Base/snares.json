@@ -4,6 +4,7 @@
   "items": [
     {
       "traits": ["Auditory", "Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Alarm Snare",
       "text": [
         "You create an alarm snare by rigging one or more noisy objects to a trip wire or pressure plate. When you create an alarm snare, you designate a range between 100 to 500 feet at which it can be heard. When a Small or larger creature enters the square, the snare makes a noise loud enough that it can be heard by all creatures in the range you designated."
@@ -13,6 +14,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Caltrop Snare",
       "text": [
         "This snare consists of a hidden canister of ",
@@ -25,6 +27,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Hampering Snare",
       "text": [
         "You arrange brambles, wires, sticky goo, or other materials to interfere with a creature's movement. The square with this snare, as well as three adjacent squares (to form a 10-foot-by-10-foot area), become difficult terrain when the first creature enters the snare's square. The difficult terrain affects the creature's movement right away, including its movement into the triggering square, and it lasts for 1d4 rounds after the snare is triggered. A creature can use an Interact action to clear the difficult terrain out of a single square early."
@@ -34,6 +37,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Marking Snare",
       "text": [
         "This snare is often used to mark intruders for later tracking or identification. When you create this snare, you must decide whether to make it a dye or a scent marker. Either type of marking grants a +2 circumstance bonus to Track the creature for up to 24 hours or until the dye or scent is washed off (requiring at least a gallon of water and 10 minutes of scrubbing). A creature that enters a square of the snare must attempt a DC 17 Reflex save."
@@ -46,6 +50,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Signaling Snare",
       "text": [
         "A subtle snare used in hunting or tracking, a signaling snare often consists of carefully prepared earth, piled sand or stones, specific arrangements of vegetation, and so forth. When a creature enters a square of a signaling snare, nothing happens to the creature, but instead it causes a small, unobtrusive disruption to the terrain that allows the snare's creator or another creature who knows what to look for to determine whether a creature of the appropriate size entered the square."
@@ -55,6 +60,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Spike Snare",
       "text": [
         "This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing 2d8 piercing damage. The creature must attempt a DC 17 basic Reflex saving throw."
@@ -64,6 +70,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Biting Snare",
       "text": [
         "The snare's jaws shut on the leg of a creature that steps on it. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 18 Reflex save. "
@@ -77,6 +84,7 @@
     },
     {
       "traits": ["Uncommon", "Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Hobbling Snare",
       "text": [
         "You rig vines, ropes, or wires to cinch tight around a creature that triggers this snare. The first creature to enter the square must attempt a DC 20 Reflex save."
@@ -90,6 +98,7 @@
     },
     {
       "traits": ["Uncommon", "Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Stalker Bane Snare",
       "text": [
         "This snare explodes in a burst of cloying powder that can cling to a creature stepping into its square. A creature that enters the square of a stalker bane snare must attempt a DC\u00a020 Reflex save. "
@@ -103,6 +112,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Trip Snare",
       "text": [
         "You set a cunning wire to trip a creature. A Medium or smaller creature that enters this snare's square must attempt a DC 20 Reflex save. ",
@@ -117,6 +127,7 @@
     },
     {
       "traits": ["Auditory", "Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Warning Snare",
       "text": [
         "Using materials specific to the area, you connect a sound-making component to a trip wire or a pressure plate. This snare is like an alarm snare, but its subtle sound blends into ambient noise. You can detect this sound as long as you're within 1,000 feet of the snare and aren't prevented from hearing it. Other creatures in that area who are searching might notice the sound if their Perception check result meets or exceeds your Craft DC."
@@ -126,6 +137,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Bomb Snare",
       "text": ["You create a snare that catalyzes three 3rd-level moderate "],
       "source": "Core Rulebook pg. 589",
@@ -133,6 +145,7 @@
     },
     {
       "traits": ["Uncommon", "Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Grasping Snare",
       "text": [
         "You rig vines and ropes to hold a creature in place. The first creature to enter the square must attempt a DC 26 Reflex save, with the following effects. "
@@ -146,6 +159,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Striking Snare",
       "text": [
         "You affix a trip line or other trigger to a group of either stones or wooden stakes to strike a creature that enters the snare's square. The creature must attempt a DC 26 basic Reflex saving throw. If you choose stones, the snare deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage."
@@ -155,6 +169,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Bleeding Spines Snare",
       "text": [
         "When a creature enters the square, spines covered in numerous jagged thorns protrude out to stab it, dealing 8d8 piercing damage and 2d8 persistent bleed damage. The creature must attempt a DC 31 basic Reflex saving throw. After the initial trigger, the spines retract and protrude again repeatedly for 1 minute, forcing any creature that enters the space or ends its turn in the space to attempt a Reflex save against the spines'\u00a0damage."
@@ -164,6 +179,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Scything Blade Snare",
       "text": [
         "This snare sends a powerful series of scything blades to slice through a creature entering the snare's square, dealing 14d8 slashing damage (DC 31 basic Reflex)."
@@ -173,6 +189,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Stunning Snare",
       "text": [
         "You rig a snare to disorient a creature with a quick bash, leaving it with little ability to defend itself. The trap deals 6d6 bludgeoning damage to the first creature to enter its square; that creature must attempt a DC 31 Reflex save."
@@ -186,6 +203,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Hail of Arrows Snare",
       "text": [
         "When a creature enters the snare's square, it releases hundreds upon hundreds of carefully prepared arrows, blanketing a 20-foot radius around the snare's square with massive arrow fire that deals 18d6 piercing damage. Creatures in the area must attempt a DC 37 basic Reflex saving throw."
@@ -195,6 +213,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Omnidirectional Spear Snare",
       "text": [
         "As soon as a creature enters the snare's square, the snare unleashes wickedly powerful spears at the creature from all directions, dealing 19d8 piercing damage (DC 37 basic Reflex)."
@@ -204,6 +223,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Flying Blade Wheel Snare",
       "text": [
         "When a creature enters the square, a deadly flying wheel of spinning blades launches at it, making a Strike with an attack modifier of +33 and dealing 8d8 slashing damage. Once on each of your turns, you can use an Interact action within 120 feet of the wheel to cause it to Fly up to 60 feet toward the creature it's chasing and make another Strike if it's within 5 feet of its target after it moves. After 1 minute, the spinning ceases and the wheel falls to the ground. Creatures can destroy the wheel to stop it (AC 37, Fort +29, Ref +20, HP 200, Hardness 10, object immunities)."
@@ -213,6 +233,7 @@
     },
     {
       "traits": ["Consumable", "Mechanical", "Snare", "Trap"],
+      "categories": ["Snare"],
       "name": "Instant Evisceration Snare",
       "text": [
         "When a creature enters the snare's square, the snare releases an unbelievable arsenal of blades, dealing 24d8 piercing damage (DC 45 basic Reflex)."

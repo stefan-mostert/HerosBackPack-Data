@@ -3,6 +3,7 @@
   "ignoreItemCategory": true,
   "items": [
     {
+      "categories": ["Tool"],
       "name": "Alchemical Crossbow",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=473",
       "category": "tools",
@@ -15,6 +16,7 @@
       "hands": "2; "
     },
     {
+      "categories": ["Tool"],
       "name": "Tindertwig",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=138",
       "category": "tools",
@@ -29,6 +31,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Tool"],
       "name": "Snake Oil",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=136",
       "category": "tools",
@@ -43,6 +46,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Tool"],
       "name": "Smokestick (Lesser)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=135",
       "category": "tools",
@@ -57,6 +61,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Tool"],
       "name": "Sunrod",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=137",
       "category": "tools",
@@ -71,6 +76,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Tool"],
       "name": "Silversheen",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=134",
       "category": "tools",
@@ -85,6 +91,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Tool"],
       "name": "Smokestick (Greater)",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=135",
       "category": "tools",
@@ -99,6 +106,7 @@
       "activate": "Interact"
     },
     {
+      "categories": ["Tool"],
       "name": "Philosopher's Stone",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=133",
       "category": "tools",

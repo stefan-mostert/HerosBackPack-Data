@@ -5,6 +5,7 @@
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=244",
       "source": "Core Rulebook pg. 570",
+      "categories": [],
       "name": "Feather Token (Anchor)",
       "level": 7,
       "price": "55 gp",
@@ -16,6 +17,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=244",
+      "categories": [],
       "name": "Feather Token (Bird)",
       "source": "Core Rulebook pg. 570",
       "level": 3,
@@ -28,6 +30,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=244",
+      "categories": [],
       "name": "Feather Token (Chest)",
       "source": "Core Rulebook pg. 570",
       "level": 3,
@@ -40,6 +43,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=244",
+      "categories": [],
       "name": "Feather Token (Fan)",
       "source": "Core Rulebook pg. 570",
       "level": 4,
@@ -52,6 +56,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=244",
+      "categories": [],
       "name": "Feather Token (Holly Bush)",
       "source": "Core Rulebook pg. 570",
       "level": 2,
@@ -64,6 +69,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=244",
+      "categories": [],
       "name": "Feather Token (Ladder)",
       "source": "Core Rulebook pg. 570",
       "level": 1,
@@ -76,6 +82,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=244",
+      "categories": [],
       "name": "Feather Token (Swan Boat)",
       "source": "Core Rulebook pg. 570",
       "level": 8,
@@ -88,6 +95,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=244",
+      "categories": [],
       "name": "Feather Token (Tree)",
       "source": "Core Rulebook pg. 570",
       "level": 6,
@@ -100,6 +108,7 @@
     },
     {
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=244",
+      "categories": [],
       "name": "Feather Token (Whip)",
       "source": "Core Rulebook pg. 570",
       "level": 9,
@@ -112,6 +121,7 @@
       "category": "other"
     },
     {
+      "categories": [],
       "name": "Holy Water",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=245",
       "category": "other",
@@ -126,6 +136,7 @@
       "activate": "Strike"
     },
     {
+      "categories": [],
       "name": "Runestone",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=247",
       "category": "other",
@@ -138,6 +149,7 @@
       "usage": "held in 1 hand; "
     },
     {
+      "categories": [],
       "name": "Unholy Water",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=248",
       "category": "other",
@@ -152,6 +164,7 @@
       "activate": "Strike"
     },
     {
+      "categories": [],
       "name": "Dust of Appearance",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=241",
       "category": "other",
@@ -165,6 +178,7 @@
       "activate": "Interact"
     },
     {
+      "categories": [],
       "name": "Candle of Truth",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=240",
       "category": "other",
@@ -178,6 +192,7 @@
       "activate": "Interact"
     },
     {
+      "categories": [],
       "name": "Javelin of Lightning",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=246",
       "category": "other",
@@ -192,6 +207,7 @@
       "activate": "Command, Interact"
     },
     {
+      "categories": [],
       "name": "Dust of Disappearance",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=242",
       "category": "other",
@@ -205,6 +221,7 @@
       "activate": "Interact"
     },
     {
+      "categories": [],
       "name": "Elemental Gem",
       "link": "https://2e.aonprd.com/Equipment.aspx?ID=243",
       "category": "other",

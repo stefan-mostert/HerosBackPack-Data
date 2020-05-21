@@ -5,7 +5,7 @@
     {
       "name": "Blowgun",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=66",
-      "category": "Simple",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "1 sp",
       "damage": "1 P",
       "range": "20 ft.",
@@ -20,7 +20,7 @@
     {
       "name": "Crossbow",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=67",
-      "category": "Simple",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "3 gp",
       "damage": "1d8 P",
       "range": "120 ft.",
@@ -35,7 +35,7 @@
     {
       "name": "Dart",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=68",
-      "category": "Simple",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "1 cp",
       "damage": "1d4 P",
       "range": "20 ft.",
@@ -50,7 +50,7 @@
     {
       "name": "Hand Crossbow",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=69",
-      "category": "Simple",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "3 gp",
       "damage": "1d6 P",
       "range": "60 ft.",
@@ -65,7 +65,7 @@
     {
       "name": "Heavy Crossbow",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=70",
-      "category": "Simple",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "4 gp",
       "damage": "1d10 P",
       "range": "120 ft.",
@@ -80,7 +80,7 @@
     {
       "name": "Javelin",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=71",
-      "category": "Simple",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "1 sp",
       "damage": "1d6 P",
       "range": "30 ft.",
@@ -95,7 +95,7 @@
     {
       "name": "Sling",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=72",
-      "category": "Simple",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "0",
       "damage": "1d6 B",
       "range": "50 ft.",
@@ -110,7 +110,7 @@
     {
       "name": "Alchemical Bomb",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=73",
-      "category": "Martial",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "",
       "damage": "Varies",
       "range": "20 ft.",
@@ -125,7 +125,7 @@
     {
       "name": "Composite Longbow",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=74",
-      "category": "Martial",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "20 gp",
       "damage": "1d8 P",
       "range": "100 ft.",
@@ -140,7 +140,7 @@
     {
       "name": "Composite Shortbow",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=75",
-      "category": "Martial",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "14 gp",
       "damage": "1d6 P",
       "range": "60 ft.",
@@ -155,7 +155,7 @@
     {
       "name": "Halfling Sling Staff",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=78",
-      "category": "Martial",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "5 gp",
       "damage": "1d10 B",
       "range": "80 ft.",
@@ -170,7 +170,7 @@
     {
       "name": "Longbow",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=76",
-      "category": "Martial",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "6 gp",
       "damage": "1d8 P",
       "range": "100 ft.",
@@ -185,7 +185,7 @@
     {
       "name": "Shortbow",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=77",
-      "category": "Martial",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "3 gp",
       "damage": "1d6 P",
       "range": "60 ft.",
@@ -200,7 +200,7 @@
     {
       "name": "Shuriken",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=79",
-      "category": "Martial",
+      "categories": ["Simple", "Ranged", "Weapon"],
       "price": "1 cp",
       "damage": "1d4 P",
       "range": "20 ft.",
@@ -215,7 +215,7 @@
     {
       "name": "Arrows",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=83",
-      "category": "Ammunition",
+      "categories": ["Ammunition"],
       "price": "1 sp (price for 10)",
       "damage": "",
       "range": "",
@@ -230,7 +230,7 @@
     {
       "name": "Blowgun Darts",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=80",
-      "category": "Ammunition",
+      "categories": ["Ammunition"],
       "price": "5 cp (price for 10)",
       "damage": "",
       "range": "",
@@ -245,7 +245,7 @@
     {
       "name": "Bolts",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=81",
-      "category": "Ammunition",
+      "categories": ["Ammunition"],
       "price": "1 sp (price for 10)",
       "damage": "",
       "range": "",
@@ -260,7 +260,7 @@
     {
       "name": "Sling Bullets",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=82",
-      "category": "Ammunition",
+      "categories": ["Ammunition"],
       "price": "1 cp (price for 10)",
       "damage": "",
       "range": "",

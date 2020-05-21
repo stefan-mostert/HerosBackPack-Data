@@ -5,7 +5,7 @@
     {
       "name": "Clan Dagger",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=13",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d4 P",
       "bulk": "L",
@@ -24,7 +24,7 @@
     {
       "name": "Club",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=2",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "0",
       "damage": "1d6 B",
       "bulk": "1",
@@ -37,7 +37,7 @@
     {
       "name": "Dagger",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=3",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 sp",
       "damage": "1d4 P",
       "bulk": "L",
@@ -50,7 +50,7 @@
     {
       "name": "Gauntlet",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=4",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 sp",
       "damage": "1d4 B",
       "bulk": "L",
@@ -63,7 +63,7 @@
     {
       "name": "Katar",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=14",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "3 sp",
       "damage": "1d4 P",
       "bulk": "L",
@@ -76,7 +76,7 @@
     {
       "name": "Light Mace",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=5",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "4 sp",
       "damage": "1d4 B",
       "bulk": "L",
@@ -89,7 +89,7 @@
     {
       "name": "Longspear",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=6",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "5 sp",
       "damage": "1d8 P",
       "bulk": "2",
@@ -102,7 +102,7 @@
     {
       "name": "Mace",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=7",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d6 B",
       "bulk": "1",
@@ -115,7 +115,7 @@
     {
       "name": "Morningstar",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=8",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d6 B",
       "bulk": "1",
@@ -128,7 +128,7 @@
     {
       "name": "Sickle",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=9",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 sp",
       "damage": "1d4 S",
       "bulk": "L",
@@ -141,7 +141,7 @@
     {
       "name": "Spear",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=10",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 sp",
       "damage": "1d6 P",
       "bulk": "1",
@@ -154,7 +154,7 @@
     {
       "name": "Spiked Gauntlet",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=11",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "3 sp",
       "damage": "1d4 P",
       "bulk": "L",
@@ -167,7 +167,7 @@
     {
       "name": "Staff",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=12",
-      "category": "Simple",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "0",
       "damage": "1d4 B",
       "bulk": "1",
@@ -180,7 +180,7 @@
     {
       "name": "Bastard Sword",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=15",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "4 gp",
       "damage": "1d8 S",
       "bulk": "1",
@@ -193,7 +193,7 @@
     {
       "name": "Battle Axe",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=16",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 sp",
       "damage": "1d8 S",
       "bulk": "1",
@@ -206,7 +206,7 @@
     {
       "name": "Bo Staff",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=17",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 sp",
       "damage": "1d8 B",
       "bulk": "2",
@@ -219,7 +219,7 @@
     {
       "name": "Dogslicer",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=49",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 sp",
       "damage": "1d6 S",
       "bulk": "L",
@@ -238,7 +238,7 @@
     {
       "name": "Elven Curve Blade",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=50",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "4 gp",
       "damage": "1d8 S",
       "bulk": "2",
@@ -251,7 +251,7 @@
     {
       "name": "Falchion",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=18",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "3 gp",
       "damage": "1d10 S",
       "bulk": "2",
@@ -264,7 +264,7 @@
     {
       "name": "Fauchard",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=90",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp, 4 sp",
       "damage": "1d8 S",
       "bulk": "2",
@@ -277,7 +277,7 @@
     {
       "name": "Filcher's Fork",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=51",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d4 P",
       "bulk": "L",
@@ -298,7 +298,7 @@
     {
       "name": "Flail",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=19",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d6 B",
       "bulk": "1",
@@ -311,7 +311,7 @@
     {
       "name": "Glaive",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=20",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d8 S",
       "bulk": "2",
@@ -324,7 +324,7 @@
     {
       "name": "Gnome Hooked Hammer",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=52",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d6 B",
       "bulk": "1",
@@ -343,7 +343,7 @@
     {
       "name": "Greataxe",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=21",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d12 S",
       "bulk": "2",
@@ -356,7 +356,7 @@
     {
       "name": "Greatclub",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=22",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d10 B",
       "bulk": "2",
@@ -369,7 +369,7 @@
     {
       "name": "Greatpick",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=23",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d10 P",
       "bulk": "2",
@@ -382,7 +382,7 @@
     {
       "name": "Greatsword",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=24",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d12 S",
       "bulk": "2",
@@ -395,7 +395,7 @@
     {
       "name": "Guisarme",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=25",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d10 S",
       "bulk": "2",
@@ -408,7 +408,7 @@
     {
       "name": "Halberd",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=26",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d10 P",
       "bulk": "2",
@@ -421,7 +421,7 @@
     {
       "name": "Hatchet",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=27",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "4 sp",
       "damage": "1d6 S",
       "bulk": "L",
@@ -434,7 +434,7 @@
     {
       "name": "Horsechopper",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=53",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "9 sp",
       "damage": "1d8 S",
       "bulk": "2",
@@ -453,7 +453,7 @@
     {
       "name": "Kama",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=54",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d6 S",
       "bulk": "L",
@@ -466,7 +466,7 @@
     {
       "name": "Katana",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=55",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d6 S",
       "bulk": "1",
@@ -484,7 +484,7 @@
     {
       "name": "Kukri",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=56",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "6 sp",
       "damage": "1d6 S",
       "bulk": "L",
@@ -497,7 +497,7 @@
     {
       "name": "Lance",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=28",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d8 P",
       "bulk": "2",
@@ -510,7 +510,7 @@
     {
       "name": "Light Hammer",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=29",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "3 sp",
       "damage": "1d6 B",
       "bulk": "L",
@@ -523,7 +523,7 @@
     {
       "name": "Light Pick",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=30",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "4 sp",
       "damage": "1d4 P",
       "bulk": "L",
@@ -536,7 +536,7 @@
     {
       "name": "Longsword",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=31",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d8 S",
       "bulk": "1",
@@ -549,7 +549,7 @@
     {
       "name": "Main-gauche",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=32",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "5 sp",
       "damage": "1d4 P",
       "bulk": "L",
@@ -568,7 +568,7 @@
     {
       "name": "Maul",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=33",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "3 gp",
       "damage": "1d12 B",
       "bulk": "2",
@@ -581,7 +581,7 @@
     {
       "name": "Nunchaku",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=57",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 sp",
       "damage": "1d6 B",
       "bulk": "L",
@@ -600,7 +600,7 @@
     {
       "name": "Orc Knuckle Dagger",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=58",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "7 sp",
       "damage": "1d6 P",
       "bulk": "L",
@@ -613,7 +613,7 @@
     {
       "name": "Pick",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=34",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "7 sp",
       "damage": "1d6 P",
       "bulk": "1",
@@ -626,7 +626,7 @@
     {
       "name": "Ranseur",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=35",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d10 P",
       "bulk": "2",
@@ -639,7 +639,7 @@
     {
       "name": "Rapier",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=36",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d6 P",
       "bulk": "1",
@@ -652,7 +652,7 @@
     {
       "name": "Sai",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=59",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "6 sp",
       "damage": "1d4 P",
       "bulk": "L",
@@ -672,7 +672,7 @@
     {
       "name": "Sap",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=37",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 sp",
       "damage": "1d6 B",
       "bulk": "L",
@@ -685,7 +685,7 @@
     {
       "name": "Scimitar",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=38",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d6 S",
       "bulk": "1",
@@ -698,7 +698,7 @@
     {
       "name": "Scourge",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=89",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 sp",
       "damage": "1d4 S",
       "bulk": "1",
@@ -711,7 +711,7 @@
     {
       "name": "Scythe",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=39",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d10 S",
       "bulk": "2",
@@ -724,7 +724,7 @@
     {
       "name": "Shield Bash",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=40",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "",
       "damage": "1d4 B",
       "bulk": "",
@@ -737,7 +737,7 @@
     {
       "name": "Shield Boss",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=41",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "5 sp",
       "damage": "1d6 B",
       "bulk": "",
@@ -750,7 +750,7 @@
     {
       "name": "Shield Spikes",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=42",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "5 sp",
       "damage": "1d6 P",
       "bulk": "",
@@ -763,7 +763,7 @@
     {
       "name": "Shortsword",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=43",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "9 sp",
       "damage": "1d6 P",
       "bulk": "L",
@@ -776,7 +776,7 @@
     {
       "name": "Spiked Chain",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=60",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "3 gp",
       "damage": "1d8 S",
       "bulk": "1",
@@ -789,7 +789,7 @@
     {
       "name": "Starknife",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=44",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d4 P",
       "bulk": "L",
@@ -808,7 +808,7 @@
     {
       "name": "Temple Sword",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=61",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d8 S",
       "bulk": "1",
@@ -821,7 +821,7 @@
     {
       "name": "Trident",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=45",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d8 P",
       "bulk": "1",
@@ -834,7 +834,7 @@
     {
       "name": "War Flail",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=46",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d10 B",
       "bulk": "2",
@@ -847,7 +847,7 @@
     {
       "name": "Warhammer",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=47",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d8 B",
       "bulk": "1",
@@ -860,7 +860,7 @@
     {
       "name": "Whip",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=48",
-      "category": "Martial",
+      "categories": ["Simple", "Weapon", "Melee"],
       "price": "1 sp",
       "damage": "1d4 S",
       "bulk": "1",
@@ -873,7 +873,7 @@
     {
       "name": "Aklys",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=85",
-      "category": "Advanced",
+      "categories": ["Advanced", "Weapon", "Melee"],
       "price": "5 gp",
       "damage": "1d6 B",
       "bulk": "1",
@@ -892,7 +892,7 @@
     {
       "name": "Aldori Dueling Sword",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=88",
-      "category": "Advanced",
+      "categories": ["Advanced", "Weapon", "Melee"],
       "price": "20 gp",
       "damage": "1d8 S",
       "bulk": "1",
@@ -905,7 +905,7 @@
     {
       "name": "Dwarven War Axe",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=62",
-      "category": "Advanced",
+      "categories": ["Advanced", "Weapon", "Melee"],
       "price": "3 gp",
       "damage": "1d8 S",
       "bulk": "2",
@@ -918,7 +918,7 @@
     {
       "name": "Gnome Flickmace",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=63",
-      "category": "Advanced",
+      "categories": ["Advanced", "Weapon", "Melee"],
       "price": "3 gp",
       "damage": "1d8 B",
       "bulk": "2",
@@ -931,7 +931,7 @@
     {
       "name": "Ogre Hook",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=86",
-      "category": "Advanced",
+      "categories": ["Advanced", "Weapon", "Melee"],
       "price": "1 gp",
       "damage": "1d10 P",
       "bulk": "2",
@@ -944,7 +944,7 @@
     {
       "name": "Orc Necksplitter",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=64",
-      "category": "Advanced",
+      "categories": ["Advanced", "Weapon", "Melee"],
       "price": "2 gp",
       "damage": "1d8 S",
       "bulk": "1",
@@ -957,7 +957,7 @@
     {
       "name": "Sawtooth Saber",
       "link": "https://2e.aonprd.com/Weapons.aspx?ID=65",
-      "category": "Advanced",
+      "categories": ["Advanced", "Weapon", "Melee"],
       "price": "5 gp",
       "damage": "1d6 S",
       "bulk": "L",

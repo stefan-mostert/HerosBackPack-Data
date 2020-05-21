@@ -1,11 +1,10 @@
 {
-  "categories": ["Armor"],
   "ignoreItemCategory": false,
   "items": [
     {
       "name": "Explorer's Clothing",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=2",
-      "category": "Unarmored",
+      "categories": ["Clothing"],
       "armorCategory": "Unarmored",
       "level": 0,
       "price": "1 sp",
@@ -23,7 +22,7 @@
     {
       "name": "Padded Armor",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=3",
-      "category": "Light",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Light",
       "level": 0,
       "price": "2 sp",
@@ -41,7 +40,7 @@
     {
       "name": "Leather Armor",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=4",
-      "category": "Light",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Light",
       "level": 0,
       "price": "2 gp",
@@ -59,7 +58,7 @@
     {
       "name": "Studded Leather Armor",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=5",
-      "category": "Light",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Light",
       "level": 0,
       "price": "3 gp",
@@ -77,7 +76,7 @@
     {
       "name": "Chain Shirt",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=6",
-      "category": "Light",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Light",
       "level": 0,
       "price": "5 gp",
@@ -95,7 +94,7 @@
     {
       "name": "Hide Armor",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=7",
-      "category": "Medium",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Medium",
       "level": 0,
       "price": "2 gp",
@@ -113,7 +112,7 @@
     {
       "name": "Scale Mail",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=8",
-      "category": "Medium",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Medium",
       "level": 0,
       "price": "4 gp",
@@ -131,7 +130,7 @@
     {
       "name": "Chain Mail",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=9",
-      "category": "Medium",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Medium",
       "level": 0,
       "price": "6 gp",
@@ -149,7 +148,7 @@
     {
       "name": "Breastplate",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=10",
-      "category": "Medium",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Medium",
       "level": 0,
       "price": "8 gp",
@@ -167,7 +166,7 @@
     {
       "name": "Splint Mail",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=11",
-      "category": "Heavy",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Heavy",
       "level": 1,
       "price": "13 gp",
@@ -185,7 +184,7 @@
     {
       "name": "Half Plate",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=12",
-      "category": "Heavy",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Heavy",
       "level": 1,
       "price": "18 gp",
@@ -203,7 +202,7 @@
     {
       "name": "Full Plate",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=13",
-      "category": "Heavy",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Heavy",
       "level": 2,
       "price": "30 gp",
@@ -221,7 +220,7 @@
     {
       "name": "Hellknight Plate",
       "link": "https://2e.aonprd.com/Armor.aspx?ID=14",
-      "category": "Heavy",
+      "categories": ["Armor", "Light"],
       "armorCategory": "Heavy",
       "level": 2,
       "price": "35 gp",
