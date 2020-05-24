@@ -20,16 +20,18 @@
         margin: 0;
         padding: 0;
       }
+
       #container-panel {
         display: grid;
         justify-self: stretch;
         grid-template-columns: auto minmax(auto, 600px) auto;
-        grid-template-rows: 60px auto;
+        grid-template-rows: 60px auto auto auto;
         grid-template-areas:
           "title title title"
           ". panel .";
         padding: 0 16px;
       }
+
       #topbar-title {
         align-self: center;
         justify-self: start;
@@ -37,6 +39,7 @@
         font-size: 24px;
         font-weight: 500;
       }
+
       #panel {
         grid-area: panel;
         max-width: 600px;
@@ -55,20 +58,24 @@
         font-weight: 300;
         margin: 0 0 16px;
       }
+
       #panel h2 {
         font-size: 18px;
         margin: 0 0 8px;
       }
+
       #panel p {
         line-height: 140%;
         margin: 16px 0 24px;
         font-size: 14px;
       }
+
       #panel a {
         color: rgb(107, 119, 128);
       }
 
       #button-link a {
+        margin-top: 40px;
         display: block;
         text-align: center;
         background-color: rgb(105, 240, 174);
@@ -78,6 +85,23 @@
         padding: 16px;
         border-radius: 4px;
         box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+      }
+
+      #contribute-link {
+        display: block;
+        text-decoration: none;
+        color: white;
+        margin-top: 30px;
+      }
+      #contribute-link a {
+        color: rgb(105, 240, 174);
+      }
+
+      #license-link a {
+        display: block;
+        margin-top: 40px;
+        text-align: center;
+        color: rgb(107, 119, 128);
       }
     </style>
   </head>
@@ -96,12 +120,20 @@
           <li><a href="PF2_Bags.json">PF2 - Bags</a></li>
           <li><a href="PF2_Items.json">PF2 - Items</a></li>
         </ul>
+
+        <div id="contribute-link">
+          You can help keep this data accurate and up to date by contributing to
+          the public github repo
+          <a href="https://github.com/stefan-mostert/HerosBackpack-Data"
+            >here</a
+          >
+        </div>
         <div id="button-link">
           <a target="_blank" href="https://herosbackpack.firebaseapp.com"
             >Visit HerosBackPack</a
           >
         </div>
-        <div>
+        <div id="license-link">
           <a href="license.html">Licenses</a>
         </div>
       </div>
