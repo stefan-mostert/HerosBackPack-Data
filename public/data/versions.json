@@ -1,12 +1,16 @@
 [
   {
     "gameSystemId": "1EqCrd2AC30ozNZjJS8B",
-    "bagLastUpdate": "2020-04-28T01:13:35.112Z",
-    "itemLastUpdate": "2020-04-28T01:13:35.112Z"
+    "bagVersion": 1,
+    "bagFilename": "PF1_Bags.json",
+    "itemVersion": 1,
+    "itemFilename": "PF1_Items.json"
   },
   {
     "gameSystemId": "cOX83KPnTAq88ND0URoe",
-    "bagLastUpdate": "2020-04-28T01:13:35.112Z",
-    "itemLastUpdate": "2020-04-28T01:13:35.112Z"
+    "bagVersion": 1,
+    "bagFilename": "PF2_Bags.json",
+    "itemVersion": 1,
+    "itemFilename": "PF2_Items.json"
   }
 ]

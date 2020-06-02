@@ -1,125 +1,122 @@
-{
-  "bags": [
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Worn",
-      "contentIsWorn": true,
-      "isPlanarStorage": false,
-      "weight": 0,
-      "maxCarryWeight": 0,
-      "maxItemLimit": 0,
-      "weightReduction": 0
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Backpack",
-      "contentIsWorn": false,
-      "isPlanarStorage": false,
-      "weight": 0,
-      "maxCarryWeight": 8,
-      "maxItemLimit": 0,
-      "weightReduction": 2
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Bandolier",
-      "contentIsWorn": false,
-      "isPlanarStorage": false,
-      "weight": 0,
-      "maxCarryWeight": 0.8,
-      "maxItemLimit": 8,
-      "weightReduction": 0
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Belt Pouch",
-      "contentIsWorn": false,
-      "isPlanarStorage": false,
-      "weight": 0,
-      "maxCarryWeight": 0.4,
-      "maxItemLimit": 4,
-      "weightReduction": 0
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Chest",
-      "contentIsWorn": false,
-      "isPlanarStorage": false,
-      "weight": 2,
-      "maxCarryWeight": 8,
-      "maxItemLimit": 0,
-      "weightReduction": 0
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Sack",
-      "contentIsWorn": false,
-      "isPlanarStorage": false,
-      "weight": 0,
-      "maxCarryWeight": 8,
-      "maxItemLimit": 0,
-      "weightReduction": 0
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Saddle Bags",
-      "contentIsWorn": false,
-      "isPlanarStorage": false,
-      "weight": 0,
-      "maxCarryWeight": 3,
-      "maxItemLimit": 0,
-      "weightReduction": 0
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Satchel",
-      "contentIsWorn": false,
-      "isPlanarStorage": false,
-      "weight": 0,
-      "maxCarryWeight": 2,
-      "maxItemLimit": 0,
-      "weightReduction": 0
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Bag of Holding I",
-      "contentIsWorn": false,
-      "isPlanarStorage": true,
-      "weight": 1,
-      "maxCarryWeight": 25,
-      "maxItemLimit": 0,
-      "weightReduction": 25
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Bag of Holding II",
-      "contentIsWorn": false,
-      "isPlanarStorage": true,
-      "weight": 1,
-      "maxCarryWeight": 50,
-      "maxItemLimit": 0,
-      "weightReduction": 50
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Bag of Holding I",
-      "contentIsWorn": false,
-      "isPlanarStorage": true,
-      "weight": 1,
-      "maxCarryWeight": 100,
-      "maxItemLimit": 0,
-      "weightReduction": 100
-    },
-    {
-      "gameSystemId": "cOX83KPnTAq88ND0URoe",
-      "name": "Bag of Holding I",
-      "contentIsWorn": false,
-      "isPlanarStorage": true,
-      "weight": 1,
-      "maxCarryWeight": 150,
-      "maxItemLimit": 0,
-      "weightReduction": 150
-    }
-  ],
-  "Items": []
-}
+[
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Worn",
+    "contentIsWorn": true,
+    "isPlanarStorage": false,
+    "weight": 0,
+    "maxCarryWeight": 0,
+    "maxItemLimit": 0,
+    "weightReduction": 0
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Backpack",
+    "contentIsWorn": false,
+    "isPlanarStorage": false,
+    "weight": 0,
+    "maxCarryWeight": 8,
+    "maxItemLimit": 0,
+    "weightReduction": 2
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Bandolier",
+    "contentIsWorn": false,
+    "isPlanarStorage": false,
+    "weight": 0,
+    "maxCarryWeight": 0.8,
+    "maxItemLimit": 8,
+    "weightReduction": 0
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Belt Pouch",
+    "contentIsWorn": false,
+    "isPlanarStorage": false,
+    "weight": 0,
+    "maxCarryWeight": 0.4,
+    "maxItemLimit": 4,
+    "weightReduction": 0
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Chest",
+    "contentIsWorn": false,
+    "isPlanarStorage": false,
+    "weight": 2,
+    "maxCarryWeight": 8,
+    "maxItemLimit": 0,
+    "weightReduction": 0
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Sack",
+    "contentIsWorn": false,
+    "isPlanarStorage": false,
+    "weight": 0,
+    "maxCarryWeight": 8,
+    "maxItemLimit": 0,
+    "weightReduction": 0
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Saddle Bags",
+    "contentIsWorn": false,
+    "isPlanarStorage": false,
+    "weight": 0,
+    "maxCarryWeight": 3,
+    "maxItemLimit": 0,
+    "weightReduction": 0
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Satchel",
+    "contentIsWorn": false,
+    "isPlanarStorage": false,
+    "weight": 0,
+    "maxCarryWeight": 2,
+    "maxItemLimit": 0,
+    "weightReduction": 0
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Bag of Holding I",
+    "contentIsWorn": false,
+    "isPlanarStorage": true,
+    "weight": 1,
+    "maxCarryWeight": 25,
+    "maxItemLimit": 0,
+    "weightReduction": 25
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Bag of Holding II",
+    "contentIsWorn": false,
+    "isPlanarStorage": true,
+    "weight": 1,
+    "maxCarryWeight": 50,
+    "maxItemLimit": 0,
+    "weightReduction": 50
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Bag of Holding I",
+    "contentIsWorn": false,
+    "isPlanarStorage": true,
+    "weight": 1,
+    "maxCarryWeight": 100,
+    "maxItemLimit": 0,
+    "weightReduction": 100
+  },
+  {
+    "gameSystemId": "cOX83KPnTAq88ND0URoe",
+    "name": "Bag of Holding I",
+    "contentIsWorn": false,
+    "isPlanarStorage": true,
+    "weight": 1,
+    "maxCarryWeight": 150,
+    "maxItemLimit": 0,
+    "weightReduction": 150
+  }
+]
