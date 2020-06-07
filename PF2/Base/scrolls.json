@@ -1,0 +1,92 @@
+[
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 1st level",
+    "level": 1,
+    "price": "4 gp",
+    "text": "",
+    "bulk": "L"
+  },
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 2nd level",
+    "level": 3,
+    "price": "12 gp",
+    "text": "",
+    "bulk": "L"
+  },
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 3rd level",
+    "level": 5,
+    "price": "30 gp",
+    "text": "",
+    "bulk": "L"
+  },
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 4th level",
+    "level": 7,
+    "price": "70 gp",
+    "text": "",
+    "bulk": "L"
+  },
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 5th level",
+    "level": 9,
+    "price": "150 gp",
+    "text": "",
+    "bulk": "L"
+  },
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 6th level",
+    "level": 11,
+    "price": "300 gp",
+    "text": "",
+    "bulk": "L"
+  },
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 7th level",
+    "level": 13,
+    "price": "600 gp",
+    "text": "",
+    "bulk": "L"
+  },
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 8th level",
+    "level": 15,
+    "price": "1300 gp",
+    "text": "",
+    "bulk": "L"
+  },
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 9th level",
+    "level": 17,
+    "price": "3000 gp",
+    "text": "",
+    "bulk": "L"
+  },
+  {
+    "source": "Core Rulebook pg. 565",
+    "categories": ["Scroll"],
+    "name": "Scroll of 10th level",
+    "level": 19,
+    "price": "8000 gp",
+    "text": "",
+    "bulk": "L"
+  }
+]
